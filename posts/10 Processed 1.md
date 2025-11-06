@@ -1,8 +1,10 @@
 ---
-title: Your Personal Blog on GitHub Pages
-date: 2022-05-25
-permalink: /personal-blog-ghpages
+title: Revival #10: WIP
+date: 2022-11-06
+permalink: /10beta
 ---
+
+<center>
 
 #### 🕳️  Collapse
 
@@ -417,3 +419,5 @@ _I hope I didn’t just make a terrible mistake._
 He scoffs at his own thought.
 
 _Like I haven't already made several today._
+
+</center>
