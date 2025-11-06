@@ -4,8 +4,6 @@ date: 2022-11-06
 permalink: /10beta
 ---
 
-<center>
-
 #### 🕳️  Collapse
 
 Joseph ran until the world blurred. <br>
@@ -419,5 +417,3 @@ _I hope I didn’t just make a terrible mistake._
 He scoffs at his own thought.
 
 _Like I haven't already made several today._
-
-</center>
