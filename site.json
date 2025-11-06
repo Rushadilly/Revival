@@ -1,0 +1,22 @@
+{
+  "title": "Revival",
+  "subtitle": "SUBT",
+  "owner": {
+    "name": "Rushadilly",
+    "email": "rush116sx@gmail.com"
+  },
+  "social": {
+  },
+  "newsletter": {
+  },
+  "seo": {
+    "title": "Revival",
+    "description": "DESC",
+    "author": "Rushadilly",
+    "keywords": [
+      "blog",
+      "developer blog",
+      "engineering blog"
+    ]
+  }
+}
