@@ -1,35 +1,26 @@
-name: Deploy to GitHub Pages
-
+name: 'gitbook-publish'
 on:
-  # Trigger the workflow every time you push to the `main` branch
-  # Using a different branch name? Replace `main` with your branch’s name
   push:
-    branches: [ main ]
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
-  workflow_dispatch:
-
-# Allow this job to clone the repo and create a page deployment
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
+    branches:
+      - master
 jobs:
-  build:
+  build-and-publish:
     runs-on: ubuntu-latest
+    env:
+      USER_NAME : Rushadilly
+      USER_EMAIL: rush116sx@gmail.com
     steps:
-      - name: Install, build, and upload your site
-        uses: aitorllj93/spaceship-action@main
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          site: https://rushadilly.github.io
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          node-version: '10.22.0'
+      - run: 
+          npm install gitbook-cli -g
+      - run:
+          gitbook init
+      - run:
+          gitbook install ./book
+      - run:
+          gitbook build ./book --output=. ./docs
+      - name: Build
+        uses: bob1113/gitbook-publish@v1.0.0
