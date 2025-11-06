@@ -3,24 +3,16 @@ on:
   push:
     branches:
       - master
+  workflow-dispatch:
+
 jobs:
-  build-and-publish:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    env:
-      USER_NAME : Rushadilly
-      USER_EMAIL: rush116sx@gmail.com
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Deploy
+        uses: kamranahmedse/github-pages-blog-action@v0.0.10
         with:
-          node-version: '10.22.0'
-      - run: 
-          npm install gitbook-cli -g
-      - run:
-          gitbook init
-      - run:
-          gitbook install ./book
-      - run:
-          gitbook build ./book --output=. ./docs
-      - name: Build
-        uses: bob1113/gitbook-publish@v1.0.0
+          branch: gh-pages # Optional branch for GitHub Pages
