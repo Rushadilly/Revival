@@ -908,12 +908,12 @@ h3 {
 }
 
 /* Custom social-link colors */
-.link-email {
+.nav .link-email {
     background: red;
 }
-.link-deviantart {
+.nav .link-deviantart {
     background: green;
 }
-.link-tumblr {
+.nav .link-tumblr {
     background: darkblue;
 }
