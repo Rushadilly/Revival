@@ -885,7 +885,7 @@ h3 {
     left: 0px;
     top: 0px;
     margin: 0px;
-    background: #0e1e63;
+    background: #2f2f2f;
     padding: 16px;
 }
 .nav + * {
@@ -895,4 +895,23 @@ h3 {
 /* Text color of nav bar children is almost black */
 .nav * {
     color: #1f1f1f
+}
+
+/* Link styling */
+.nav a {
+    padding: 10px;
+    border-radius: 96px;
+    background: grey;
+}
+.link-email {
+    background: red;
+}
+.link-deviantart {
+    background: green;
+}
+.link-tumblr {
+    background: darkblue;
+}
+.nav a:hover {
+    background: white;
 }
