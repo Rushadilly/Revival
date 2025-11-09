@@ -16,6 +16,6 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Deploy
-        uses: cowtrix/github-pages-blog-action
+        uses: cowtrix/github-pages-blog-action@v0.0.17
         with:
           branch: gh-pages # Optional branch for GitHub Pages
