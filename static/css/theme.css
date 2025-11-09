@@ -850,25 +850,18 @@ pre .lineno {
 
 /* Rushadilly */
 
-@media (prefers-color-scheme: dark) {
-    img {
-        opacity: .75;
-        transition: opacity .5s ease-in-out;
-    }
-    img:hover {
-        opacity: 1;
-    }
-
-    body {
-        background: #171717;
-        color: white;    
-    }
+/* Make site dark theme */
+body {
+    background: #171717;
+    color: white;    
 }
 
+/* Color quotes blue */
 blockquote p {
     color: deepskyblue;
 }
 
+/* Set font to Ubuntu */
 @font-face {
     font-family: 'Ubuntu';
     src: url('/fonts/Ubuntu-Regular.woff2') format('woff2'),
@@ -876,11 +869,25 @@ blockquote p {
     font-weight: 400;
     font-style: normal;
 }
-
 body {
     font-family: 'Ubuntu', sans-serif;
 }
 
+/* Center headers */
 h3 {
     text-align: center;
+}
+
+/* Make the navigation bar float */
+.nav {
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    margin: 0px;
+    background: #0e1e63;
+    padding: 16px;
+}
+.nav + * {
+    margin-top: 64px;
 }
