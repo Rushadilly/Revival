@@ -897,6 +897,16 @@ h3 {
     color: #1f1f1f
 }
 
+/* Link styling */
+.nav a {
+    padding: 10px;
+    border-radius: 96px;
+    background: grey;
+}
+.nav a:hover {
+    background: white;
+}
+
 /* Custom social-link colors */
 .link-email {
     background: red;
@@ -906,13 +916,4 @@ h3 {
 }
 .link-tumblr {
     background: darkblue;
-}
-/* Link styling */
-.nav a {
-    padding: 10px;
-    border-radius: 96px;
-    background: grey;
-}
-.nav a:hover {
-    background: white;
 }
