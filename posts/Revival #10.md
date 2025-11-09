@@ -1,5 +1,5 @@
 ---
-title: Revival #10: WIP
+title: "Revival #10: WIP"
 date: 2022-11-06
 permalink: /10beta
 ---
