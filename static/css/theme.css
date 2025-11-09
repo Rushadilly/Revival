@@ -880,3 +880,7 @@ blockquote p {
 body {
     font-family: 'Ubuntu', sans-serif;
 }
+
+h3 {
+    text-align: center;
+}
