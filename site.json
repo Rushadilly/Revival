@@ -7,9 +7,21 @@
     "email": "rush116sx@gmail.com"
   },
   "social": {
-      "tumblr":  { "base": "https://tumblr.com",   "cls": "link-tumblr",  "label": "Tumblr" },
-      "twitter": { "base": "https://twitter.com",  "cls": "link-twitter", "label": "Twitter" },
-      "email":   { "base": "mailto:",              "cls": "link-email",  "label": "Email" }
+      "email":   {
+        "base": "mailto:rush116sx@gmail.com",
+        "cls": "link-email",
+        "label": "Email"
+      },
+      "deviantart": {
+        "base": "https://www.deviantart.com/rushadilly",
+        "cls": "link-deviantart",
+        "label": "DeviantArt"
+      },
+      "tumblr":  {
+        "base": "https://www.tumblr.com/blog/rushadilly",
+        "cls": "link-tumblr",
+        "label": "Tumblr"
+      }
   },
   "newsletter": {
   },
