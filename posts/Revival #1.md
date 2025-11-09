@@ -1,5 +1,5 @@
 ---
-title: Revival: Awakening
+title: "Revival: Awakening"
 date: 2025-09-28
 permalink: /1/1
 ---
