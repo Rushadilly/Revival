@@ -7,6 +7,9 @@
     "email": "rush116sx@gmail.com"
   },
   "social": {
+      "github":  { "base": "https://github.com",   "cls": "link-github",  "label": "GitHub" },
+      "twitter": { "base": "https://twitter.com",  "cls": "link-twitter", "label": "Twitter" },
+      "email":   { "base": "mailto:",              "cls": "link-email",  "label": "Email" }
   },
   "newsletter": {
   },
