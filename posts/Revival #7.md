@@ -4,6 +4,9 @@ date: 2025-09-28
 permalink: /1/7
 ---
 
+<script nav src="/Revival/libs/process.js" prev="/1/6" next="1/8"></script>
+
+
 Issue #7 of Revival, where we take a darker turn to a world where grime grows, the shadows play, and ashes scatter. A fitting place for one called Soot.
 
 ---

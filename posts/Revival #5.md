@@ -4,6 +4,8 @@ date: 2025-09-28
 permalink: /1/5
 ---
 
+<script nav src="/Revival/libs/process.js" prev="/1/4" next="1/6"></script>
+
 Short story #5 of the Revival series! A good ol' game of _Static Chase_**.** Tagging someone down with striking bolts of electricity. What could go wrong?
 
 ---

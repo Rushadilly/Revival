@@ -4,6 +4,8 @@ date: 2025-09-28
 permalink: /1/4
 ---
 
+<script nav src="/Revival/libs/process.js" prev="/1/3" next="1/5"></script>
+
 Short story #4 of the Revival series! This one starts a little strange. Bare with me! I haven't jumped the shark!  
 …  
 Yet…

@@ -4,6 +4,8 @@ date: 2025-09-28
 permalink: /1/8
 ---
 
+<script nav src="/Revival/libs/process.js" prev="/1/7" next="1/9"></script>
+
 Short story #8 of Revival!
 
 ---

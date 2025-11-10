@@ -4,6 +4,8 @@ date: 2025-09-28
 permalink: /1/2
 ---
 
+<script nav src="/Revival/libs/process.js" prev="/1/1" next="1/3"></script>
+
 Short story #2 of the Revival series! Joseph's first night in this new Pokemon world.
 <br>Unfortunately, his restless mind gets little sleep as he processes the change.
 

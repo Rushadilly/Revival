@@ -4,6 +4,8 @@ date: 2025-09-28
 permalink: /1/9
 ---
 
+<script nav src="/Revival/libs/process.js" prev="/1/8" next="1/10"></script>
+
 I hope you’ve been lifting, because issue #9 of _Revival_ gets heavy. 🏋️‍♂️  
 Longing. Dread. Desperation. Rebellion. Regret. Betrayal.
 <br>I’ll say little more — you’ll see for yourself.

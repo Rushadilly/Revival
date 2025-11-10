@@ -4,6 +4,8 @@ date: 2025-09-28
 permalink: /1/3
 ---
 
+<script nav src="/Revival/libs/process.js" prev="/1/2" next="1/4"></script>
+
 Short story #3 of the Revival series!
 <br>Enjoy!
 

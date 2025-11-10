@@ -4,6 +4,8 @@ date: 2025-09-28
 permalink: /1/1
 ---
 
+<script nav src="/Revival/libs/process.js" next="/1/2"></script>
+
 Hate it when you wake up and find you've turned into a furry? Just me? Well, me and this chap here, but I'm sure it's all just a dream. 👍
 
 ---

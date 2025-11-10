@@ -4,6 +4,9 @@ date: 2025-09-28
 permalink: /1/6
 ---
 
+<script nav src="/Revival/libs/process.js" prev="/1/5" next="1/7"></script>
+
+
 Issue #6 of the short-story series — Revival, and oh boy! Things are really heating up this issue, and I mean that in **every** sense of the word! For real!
 
 Things have been easy for Joseph up to this point, but he is about to see what this world thinks of people like him, and he won't be able to hide from it. 😁👍
