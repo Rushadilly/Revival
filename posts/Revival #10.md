@@ -4,11 +4,9 @@ date: 2022-11-06
 permalink: /10beta
 ---
 
-<center>
-	<a href="/Revival/1/9"><< Prev</a>
-	<a href="/Revival/1/1">First</a>
-	<a>Next >></a>
-</center>
+<script nav src="/Revival/lib/inject.js" prev="/1/9">
+
+---
 
 ### 🕳️  Collapse
 
@@ -425,3 +423,11 @@ _I hope I didn’t just make a terrible mistake._
 He scoffs at the thought.
 
 _Like I haven't already made several today._
+
+---
+
+<center>
+	<a href="/Revival/1/9"><< Prev</a>
+	<a href="/Revival/1/1">First</a>
+	<a>Next >></a>
+</center>
