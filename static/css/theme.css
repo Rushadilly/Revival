@@ -911,11 +911,11 @@ center a {
     background: #272730;
     padding: 8px;
 }
-center a:not(:has(+ a )) {
+center a:first-of-type {
     border-top-left-radius: 96px;
     border-bottom-left-radius: 96px;
 }
-center a:not(:has( a +)) {
+center a:last-of-type {
     border-top-right-radius: 96px;
     border-bottom-right-radius: 96px;
 }
