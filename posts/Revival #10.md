@@ -4,7 +4,7 @@ date: 2022-11-06
 permalink: /10beta
 ---
 
-#### 🕳️  Collapse
+### 🕳️  Collapse
 
 Joseph ran until the world blurred.<br>
 Buildings melted into tall grass whipping against his legs as the last of the sun's glow slipped beneath the horizon.<br>
@@ -62,7 +62,7 @@ He wiped at them furiously.
 > “Fine,” he muttered under his breath.<br>
 > “If You won’t send me home — I’ll find my own way.”
 
-#### ❓ **Answers**
+### ❓ Answers
 
 The night was quiet in Eli’s tent.<br>
 A lantern burned low beside him, its warm glow breathing across the canvas walls and over stacks of wooden tablets arranged in careful order.
@@ -143,7 +143,7 @@ His expression didn’t harden — it only grew sadder.
 
 But he was already leaving.
 
-### 🍃 **Fallout**
+### 🍃 Fallout
 
 He shoved past the tent flap into the cool night air, breath ragged.  
 The campfire had burned low, casting long, flickering shadows across the clearing.
@@ -221,7 +221,7 @@ Eli looked down the path where Joseph had gone, the shadows swallowing the dista
 > “…God help you, boy,” he murmured.  
 > “Because I no longer can.”
 
-#### 🚶‍♂️ **Wander**
+### 🚶‍♂️ Wander
 
 The night pressed in close.<br>
 Crickets sang somewhere deep in the grass, their rhythm soft and steady — a cruel contrast to the storm in Joseph’s chest.
@@ -270,7 +270,7 @@ Motionless, he forced in a long breath… and that’s when he caught a voice.
 
 Playful. Smooth. Almost _too_ smooth.
 
-#### 🌓 **Mysterious**
+### 🌓 Mysterious
 
 > “Well, if it isn’t the Eevee who started a riot.”
 
@@ -336,7 +336,7 @@ He froze — too long — before blurting out,
 
 > “W-what’s a human?”
 
-#### 📖 **Archives**
+### 📖 Archives
 
 His ear twitched — she’d _just_ explained that.
 
