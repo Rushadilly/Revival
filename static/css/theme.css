@@ -862,14 +862,31 @@ blockquote p {
 }
 
 /* Set font to Ubuntu */
-@font-face {
+@font-face { /* Regular */
     font-family: 'Ubuntu';
-    src: url('/fonts/Ubuntu-Regular.woff2') format('woff2'),
-        url('/fonts/Ubuntu-Regular.woff')  format('woff');
-    font-weight: 400;
+    src: url('/fonts/ubuntu/Ubuntu-R.ttf') format('truetype');
+    font-weight: normal;
     font-style: normal;
 }
-body {
+@font-face { /* Bold */
+    font-family: 'Ubuntu';
+    src: url('/fonts/ubuntu/Ubuntu-B.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face { /* Italic */
+    font-family: 'Ubuntu';
+    src: url('/fonts/ubuntu/Ubuntu-I.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face { /* Bold Italic */
+    font-family: 'Ubuntu';
+    src: url('/fonts/ubuntu/Ubuntu-BI.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+* {
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -930,7 +947,7 @@ hr {
 
 /* Bold and italics */
 em {
-    color: pink;
+    color: #ffb3c1;
 }
 b, strong {
     color: hotpink;
