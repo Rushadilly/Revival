@@ -4,7 +4,11 @@ date: 2022-11-06
 permalink: /10beta
 ---
 
-<a href="/1/9">Prev</a> <a href="/1/1">First</a>
+<center>
+	<a href="/Revival/1/9">Prev</a>
+	<a href="/Revival/1/1">First</a>
+	<a>Next</a>
+</center>
 
 ### 🕳️  Collapse
 

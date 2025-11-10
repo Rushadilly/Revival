@@ -925,3 +925,12 @@ em {
 b, strong {
     color: hotpink;
 }
+
+a:not(:has(+ a )) {
+    border-top-left-radius: 96px;
+    border-bottom-left-radius: 96px;
+}
+a:not(:has( a +)) {
+    border-top-right-radius: 96px;
+    border-bottom-right-radius: 96px;
+}
