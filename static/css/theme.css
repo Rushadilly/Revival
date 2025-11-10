@@ -907,9 +907,10 @@ b, strong {
     color: hotpink;
 }
 
-/**/
+/* Next and previous navigation */
 center a {
     background: #272730;
+    color: white;
     padding: 8px;
 }
 center a:first-of-type {
@@ -919,4 +920,8 @@ center a:first-of-type {
 center a:last-of-type {
     border-top-right-radius: 96px;
     border-bottom-right-radius: 96px;
+}
+center a:hover {
+    background: white;
+    color: #272730
 }

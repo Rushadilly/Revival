@@ -5,9 +5,9 @@ permalink: /10beta
 ---
 
 <center>
-	<a href="/Revival/1/9">Prev</a>
+	<a href="/Revival/1/9"><< Prev</a>
 	<a href="/Revival/1/1">First</a>
-	<a>Next</a>
+	<a>Next >></a>
 </center>
 
 ### 🕳️  Collapse
