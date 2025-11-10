@@ -908,20 +908,21 @@ b, strong {
 }
 
 /* Next and previous navigation */
-center a {
+a {
     background: #272730;
     color: white;
     padding: 16px 8px 16px 8px;
+    text-decoration: none;
 }
-center a:first-of-type {
+a:first-of-type {
     border-top-left-radius: 96px;
     border-bottom-left-radius: 96px;
 }
-center a:last-of-type {
+a:last-of-type {
     border-top-right-radius: 96px;
     border-bottom-right-radius: 96px;
 }
-center a:hover {
+a:hover {
     background: white;
     color: #272730
 }
