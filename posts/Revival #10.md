@@ -421,11 +421,3 @@ _I hope I didn’t just make a terrible mistake._
 He scoffs at the thought.
 
 _Like I haven't already made several today._
-
----
-
-<center>
-	<a href="/Revival/1/9"><< Prev</a>
-	<a href="/Revival/1/1">First</a>
-	<a>Next >></a>
-</center>
