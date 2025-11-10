@@ -6,9 +6,9 @@ window.onload = function() {
   	
 	let prev = `/Revival/${addNav.getAttribute('prev')}`.replace("/Revival//", "/Revival/");
 	let next = `/Revival/${addNav.getAttribute('next')}`.replace("/Revival//", "/Revival/");
-	let links = `<a href='${prev}'>Prev</a>`
+	let links = `<a href='${prev}'>&lt;&lt; Prev</a>`
 		+ `<a href='/Revivavl/1/1'>First</a>`
-		+ `<a href='${next}'>Next</a>`
+		+ `<a href='${next}'>Next &gt;&gt;</a>`
 	let nav = `<center>${links}</center>`;
 	
 	const newElement = document.createElement('div');
