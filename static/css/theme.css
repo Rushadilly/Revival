@@ -444,7 +444,6 @@ body {
 
 p {
     margin-bottom: 1.5rem;
-    font-family: "Alegreya", "Times New Roman", Georgia, serif;
     font-size: 110%;
     line-height: 140%
 }
@@ -477,21 +476,6 @@ hr::before {
     font-size: 1rem;
     letter-spacing: 1rem
 }
-
-/*
-blockquote {
-    margin: 3rem 0
-}
-*/
-
-/*
-blockquote p {
-    color: #0087F8;
-    font: 300 1.5rem "Lato", -apple-system, Helvetica, Arial, sans-serif;
-    line-height: 2rem;
-    text-align: center
-}
-    */
 
 img, video {
     margin: 3rem auto;
