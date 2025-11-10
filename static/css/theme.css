@@ -529,14 +529,6 @@ table td {
     font-size: .9rem
 }
 
-.nav__right a, .nav__left a {
-    margin-right: .5rem
-}
-
-.nav__right a:last-child, .nav__left a:last-child {
-    margin-right: 0
-}
-
 footer {
     color: #888;
     font-size: 0.9rem;
