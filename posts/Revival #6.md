@@ -10,7 +10,7 @@ Things have been easy for Joseph up to this point, but he is about to see what t
 
 ---
 
-## 🎪 Market
+### 🎪 Market
 
 The town hummed as the sun climbed the horizon.
 
@@ -84,7 +84,7 @@ Joseph never saw her, but the moment stayed with her longer than she expected.
 
 Then, Joseph and Chew came upon the shrine.
 
-## 🔥 Sensation
+### 🔥 Sensation
 
 It stood at the intersection where the dirt gave way to a widened cobblestone circle, surrounded by candles and weathered offerings.
 
@@ -100,8 +100,8 @@ Chew’s ears perked.
 
 Joseph didn’t answer.
 
-> “You should make an offering,” Chew said, his voice bright. <br>
-> “You know, just to be safe.”
+> “You should make an offering,” Chew said, his voice bright.
+> <br>“You know, just to be safe.”
 
 > “I’ll pass.”
 
@@ -145,8 +145,8 @@ It looked like mere stone.
 
 Chew finished his offering and returned to Joseph.
 
-> “Hey,” Chew said, <br>
-> “you okay?”
+> “Hey,” Chew said,
+> <br>“you okay?”
 
 Joseph blinked, his gaze never leaving the shrine.
 
@@ -166,7 +166,7 @@ Then why did no one else react?
 
 The logic didn’t hold, and it left him uneasy.
 
-## 🙇‍♂️ Defiance
+### 🙇‍♂️ Defiance
 
 They continued their errands in silence.
 
@@ -190,8 +190,8 @@ Upon it rested an ornate vessel of stone and metal, etched with old runes that p
 
 The figures surrounding it—an Arcanine, a Gardevoir, a Noctowl, a Lucario—all cloaked holding staffs, standing ahead and behind, keeping the path clear and the vessel protected.
 
-> “Bow,” someone whispered beside them. <br>
-> “The blessing begins.”
+> “Bow,” someone whispered beside them.
+> <br>“The blessing begins.”
 
 Without hesitation, those around them lowered themselves to the ground, heads bent low.
 
@@ -223,8 +223,8 @@ The **Lucario’s** hood tilted toward him.
 
 Though his eyes were hidden, Joseph felt their focus like a hand closing around his throat.
 
-> “You there,” came the voice — calm, but edged like flint. <br>
-> “Why do you not kneel before the blessing?”
+> “You there,” came the voice — calm, but edged like flint.
+> <br>“Why do you not kneel before the blessing?”
 
 Joseph’s throat closed.
 
@@ -264,7 +264,7 @@ He merely turned his head aside, eyes shut tight, braced for the blow.
 
 Then—**wind**.
 
-## 💨 Breath
+### 💨 Breath
 
 A single gust swept the street.
 
@@ -328,8 +328,8 @@ The crowd parted just slightly around him—like a current avoiding an obstacle 
 
 Chew rose beside him, wide-eyed.
 
-> “I- I thought you were a goner,” he whispered. <br>
-> “He was gonna _hit_ you.”
+> “I- I thought you were a goner,” he whispered.
+> <br>“He was gonna _hit_ you.”
 
 His voice trembled, ears dropped low.
 
@@ -347,7 +347,7 @@ Chew nodded quickly.
 
 They slipped away down the nearest side street, the murmurs following like a tide that wouldn’t let go.
 
-## 🔮 Crystal
+### 🔮 Crystal
 
 They didn’t stop walking until the voices were gone.
 
@@ -413,8 +413,8 @@ He wasn’t ready for another confrontation — not now.
 
 When she stopped before them, her smile was polite, but her eyes flickered with something else.
 
-> “You’re the one from the square,” she said softly. <br>
-> “The one who didn’t bow.”
+> “You’re the one from the square,” she said softly.
+> <br>“The one who didn’t bow.”
 
 Joseph tensed.
 
@@ -426,8 +426,8 @@ Joseph tensed.
 
 Her ribbons fluttered closer, a gesture both curious and teasing.
 
-> “That was brave. Foolish, maybe, but brave. Everyone else dropped like frightened Meowths. But you—” her smile sharpened— <br>
-> “you stayed standing.”
+> “That was brave. Foolish, maybe, but brave. Everyone else dropped like frightened Meowths. But you—” her smile sharpened—
+> <br>“you stayed standing.”
 
 Chew scratched behind his ear, unsure whether to grin or back away.
 
@@ -435,13 +435,13 @@ Chew scratched behind his ear, unsure whether to grin or back away.
 
 Joseph said, his voice awkward and defensive.
 
-> “I believe you.” She stepped closer. <br>
-> “My name’s **Crystal.** And you, little hero?”
+> “I believe you.” She stepped closer.
+> <br>“My name’s **Crystal.** And you, little hero?”
 
 > “Joseph.”
 
-> “Joseph,” she repeated, like testing how the word felt on her tongue. <br>
-> “You wear it well.”
+> “Joseph,” she repeated, like testing how the word felt on her tongue.
+> <br>“You wear it well.”
 
 The compliment hit him off guard.
 
@@ -475,8 +475,8 @@ Chew blinked between them, puzzled.
 
 > “Wait—what’s that supposed to mean?”
 
-> **“NOTHING!””** Joseph blurted out, already turning away. <br>
-> “We should go.”
+> **“NOTHING!””** Joseph blurted out, already turning away.
+> <br>“We should go.”
 
 > “Oh?” the Sylveon retorted.
 
@@ -492,8 +492,8 @@ The smile slipped for a heartbeat — surprise flickering across her face.
 
 Joseph didn’t answer, already walking away.
 
-> “Maybe,” she murmured. <br>
-> “But I’d still like to know what made you stand.”
+> “Maybe,” she murmured.
+> <br>“But I’d still like to know what made you stand.”
 
 He didn’t look back.
 
@@ -501,7 +501,7 @@ Behind him, she whispered almost to herself.
 
 > “No one else did.”
 
-## 🚬 Embers
+### 🚬 Embers
 
 Chew trailed after him, snickering under his breath.
 
@@ -513,8 +513,8 @@ If he ignored it, maybe it would just die off.
 
 He adjusted the strap of his pouch and kept walking, eyes fixed on the dust scrolling under his paws.
 
-> “She called you _cute!_” Chew went on, grinning ear to ear. <br>
-> “That’s—uh, not something I’ve heard anyone say in a while.”
+> “She called you _cute!_” Chew went on, grinning ear to ear.
+> <br>“That’s—uh, not something I’ve heard anyone say in a while.”
 
 Joseph’s ears pinned back.
 
@@ -558,8 +558,8 @@ Joseph gave a small exhale that might have been a laugh.
 
 Joseph hesitated, the unexpected sincerity cooling the heat in his cheeks.
 
-> “Thanks,” he said finally. <br>
-> “I think.”
+> “Thanks,” he said finally.
+> <br>“I think.”
 
 Just as he was about to regain his composure, Joseph glanced over his shoulder—
 

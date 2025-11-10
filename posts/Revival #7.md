@@ -8,7 +8,7 @@ Issue #7 of Revival, where we take a darker turn to a world where grime grows, t
 
 ---
 
-## Night 🌖
+### Night 🌖
 
 The night draped itself across the land like a quiet veil.
 
@@ -32,7 +32,7 @@ Laughter, raucous and raw, spilled from inside.
 
 A sign hung crooked above the door, the paint chipped and the name long unreadable.
 
-## 🩸Fangs
+### 🩸Fangs
 
 Soot pushed through the entrance.
 
@@ -44,8 +44,8 @@ She walked past them, head low, tail steady — until a shape stumbled into her 
 
 A Zangoose blocked her way, fur matted, eyes glazed from drink. His grin was crooked, teeth catching the lantern light.
 
-> “Well now… what’s a lovely shadow like you doin’ all alone?” he slurred, swaggering closer. <br>
-> “You look like trouble — my favorite kind.”
+> “Well now… what’s a lovely shadow like you doin’ all alone?” he slurred, swaggering closer.
+> <br>“You look like trouble — my favorite kind.”
 
 Soot didn’t even glance at him, just trying to get around.
 
@@ -71,10 +71,10 @@ The room, for a moment, felt colder.
 
 Soot walked on, the murmuring behind her fading into the haze.
 
-> “Oi, Soot!” called a voice from the far corner. <br>
-> “Get over here, you gloomy thing!”
+> “Oi, Soot!” called a voice from the far corner.
+> <br>“Get over here, you gloomy thing!”
 
-## 🍻 Company
+### 🍻 Company
 
 She turned.
 
@@ -116,7 +116,7 @@ But she didn’t drink it for the taste.
 
 It helped her forget — and it did that well enough.
 
-## 💭 Dreaming
+### 💭 Dreaming
 
 As her throat burned, her mind drifted.
 
@@ -152,14 +152,14 @@ Still… she wanted to see him again.
 
 Even if she didn’t know why.
 
-## 🙊 Stories
+### 🙊 Stories
 
 Her companions were still talking — jokes, gossip, scraps of half-truths.
 
 Dart leaned back with a smug grin.
 
-> “So get this — I was at the market earlier, right? Some snobby Luxray starts braggin’ about how his claws are gold-plated or some crap. Says no one’s worth more than him.” <br>
-> “So I _accidentally_ bumped him and made him drop his fancy collar into the gutter.”
+> “So get this — I was at the market earlier, right? Some snobby Luxray starts braggin’ about how his claws are gold-plated or some crap. Says no one’s worth more than him.”
+> <br>“So I _accidentally_ bumped him and made him drop his fancy collar into the gutter.”
 
 Fang barked a laugh.
 
@@ -189,22 +189,22 @@ until one word caught like a spark in dry grass.
 
 > “—Eevee,”
 
-## 💫 Impulse
+### 💫 Impulse
 
 Her head lifted before she realized it.
 
-> “Wait,” she said. <br>
-> “What Eevee?”
+> “Wait,” she said.
+> <br>“What Eevee?”
 
 The Liepard shrugged.
 
 > “Heard some new Eevee refused to bow at the procession or whatever. Caused a scene.”
 
-> “Nah,” said Mightyena, <br>
-> “he was caught talkin’ blasphemy or somethin’ stupid like that.”
+> “Nah,” said Mightyena,
+> <br>“he was caught talkin’ blasphemy or somethin’ stupid like that.”
 
-> “Did he get hurt?” she pressed. <br>
-> “Do you know his name?”
+> “Did he get hurt?” she pressed.
+> <br>“Do you know his name?”
 
 They both shrugged, bickering over details.
 
@@ -260,7 +260,7 @@ The night outside felt colder now. The stars were still watching, unblinking.
 
 The wind chased her as she ran.
 
-## 🏕️ Recklessness
+### 🏕️ Recklessness
 
 Dry grass whispered beneath her paws, the town shrinking behind her until its orange lanterns became flickers swallowed by the dark.
 
@@ -288,8 +288,8 @@ The place was quiet — no guards, no lights, just the hiss of wind through canv
 
 She crept forward, paws silent.
 
-> “Joseph?” she whispered. <br>
-> “Joseph, you here?”
+> “Joseph?” she whispered.
+> <br>“Joseph, you here?”
 
 Nothing.
 
@@ -311,7 +311,7 @@ A low growl rippled through the dark.
 
 > “Who’s there?”
 
-## 🚨 Caught
+### 🚨 Caught
 
 The voice was cold and commanding.
 
@@ -321,15 +321,15 @@ Nine tails flowing like living fire.
 
 He stepped into view, eyes burning like coals.
 
-> “An Umbreon,” he said, tone laced with disgust. <br>
-> “Of course. What are you doing here, shadow?”
+> “An Umbreon,” he said, tone laced with disgust.
+> <br>“Of course. What are you doing here, shadow?”
 
 Soot stiffened.
 
 > “None of your business.”
 
-> “Wrong answer.” His voice was soft, dangerous. <br>
-> “You think we wouldn’t notice you creeping through our camp at night? What are you — a thief? A spy?”
+> “Wrong answer.” His voice was soft, dangerous.
+> <br>“You think we wouldn’t notice you creeping through our camp at night? What are you — a thief? A spy?”
 
 Shapes stirred.
 
@@ -339,8 +339,8 @@ The Tyrogue cracked his knuckles.
 
 > “No one just _wanders_ into our camp at night.”
 
-> “Probably scouting,” Snout added. <br>
-> “Or worse.”
+> “Probably scouting,” Snout added.
+> <br>“Or worse.”
 
 > “What do you want, intruder?” Chew demanded, cheeks sparking.
 
@@ -374,7 +374,7 @@ Then —
 
 > “Wait — what’s going on?”
 
-## 🔥 Intercession
+### 🔥 Intercession
 
 Everyone turned.
 
@@ -394,14 +394,14 @@ The Ninetales glanced at him.
 
 > “You know this intruder?”
 
-> “I— Yes,” Joseph stammered, moving between them. <br>
-> “She’s with me.”
+> “I— Yes,” Joseph stammered, moving between them.
+> <br>“She’s with me.”
 
-> “With you?” the Lucario scoffed. <br>
-> “You made friends with _her_?”
+> “With you?” the Lucario scoffed.
+> <br>“You made friends with _her_?”
 
-> “Joseph, do you even know what she is?” the Pikachu cried. <br>
-> “She’s an _Umbreon_!”
+> “Joseph, do you even know what she is?” the Pikachu cried.
+> <br>“She’s an _Umbreon_!”
 
 The word hit the air like poison.
 
@@ -411,7 +411,7 @@ Joseph turned toward the Pikachu.
 
 > “I know what she is, and I don’t care!”
 
-## 🕯️ Resolve
+### 🕯️ Resolve
 
 A murmur rippled through the group — disbelief, shock, outrage.
 

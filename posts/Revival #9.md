@@ -1,8 +1,8 @@
 ---
-title: "Revival: Breaking Point"
-date: 2025-09-28
-permalink: /1/9
----
+<br>title: "Revival: Breaking Point"
+<br>date: 2025-09-28
+<br>permalink: /1/9
+<br>---
 
 I hope you’ve been lifting, because issue #9 of _Revival_ gets heavy. 🏋️‍♂️  
 Longing. Dread. Desperation. Rebellion. Regret. Betrayal.
@@ -321,7 +321,7 @@ The crowd hadn’t fully dispersed — a few lingered, curious, murmuring.
 <br>The preacher’s mask slid back on — the one with the calm voice and the faint, knowing smile.
 
 	“My name’s Joseph,” he began again.
-	“I’m not here to argue or to shame anyone. I just want you to know…”
+<br>	“I’m not here to argue or to shame anyone. I just want you to know…”
 
 But the air had changed.
 <br>A low voice cut through the murmur:
@@ -486,7 +486,7 @@ The whispers started.
 <br>Soot’s stomach turned to ice.
 
 > “Stop it!” she shouted, voice cracking.
-	
+<br>	
 She turned and ran.
 
 Joseph laughed after her — wild, breathless, wrong.

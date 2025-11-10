@@ -10,7 +10,7 @@ Yet…
 
 ---
 
-## 👽 Aliens
+### 👽 Aliens
 
 A young man walked down the street. With a smile on his face he trotted down city lanes passing storefronts and parallel parked cars without a care in the world.
 
@@ -44,8 +44,8 @@ His father, calm as a man in slippers, announced,
 
 Joseph’s mouth hung open. He couldn't believe what he was hearing come from his father.
 
-> “Which brings me to you, my son,” his father continued, eyes twinkling. <br>
-> “You're going to help me beat them.”
+> “Which brings me to you, my son,” his father continued, eyes twinkling.
+> <br>“You're going to help me beat them.”
 
 > “How could I possibly do that!?”
 
@@ -69,7 +69,7 @@ Joseph turned it over in his hand.
 
 Joseph stared at his father like he’s crazy — and his father stared back, with a smile as if to say _‘You’ll see.’_
 
-## 🪐 Home-world
+### 🪐 Home-world
 
 Just then, a UFO tilted, whirring loudly, and a tractor beam shimmered down onto the asphalt.
 
@@ -153,7 +153,7 @@ The last thing he saw were the teeth — endless rows of knives coming for his f
 
 …
 
-## 🔆 Light
+### 🔆 Light
 
 Suddenly, a **bright light** shone on Joseph's face.
 
@@ -207,7 +207,7 @@ Still, too embarrassed to ask for food, he thought maybe if he sat with them lon
 
 That, or he’d go hungry.
 
-## 👊 Confrontation
+### 👊 Confrontation
 
 Joseph left his tent and walked toward them, but **Fight the Tyrogue** stepped in front of him, blocking his path.
 
@@ -227,8 +227,8 @@ The smell rolling off Fight hit him next — **harsh and bitter**, like a warnin
 
 His fur prickled before he could stop it.
 
-> “So next time you decide to go explore and get lost—” Fight’s smile dropped. <br>
-> “—don’t.”
+> “So next time you decide to go explore and get lost—” Fight’s smile dropped.
+> <br>“—don’t.”
 
 > “…Ok…”
 
@@ -236,7 +236,7 @@ Fight glared down at him, scoffed, and walked away.
 
 Joseph exhaled slowly, pretending that didn’t just happen, then joined the others by the fire.
 
-## 🍗 Chicken
+### 🍗 Chicken
 
 > “There you are, sleepyhead! You sleep like a Snorlax,” the Pikachu piped up.
 
@@ -248,10 +248,10 @@ Joseph exhaled slowly, pretending that didn’t just happen, then joined the oth
 
 He sat beside them, fidgeting his paws together. Every movement felt wrong, even his **body language felt foreign.**
 
-> “Good morning,” said Snout. <br>
-> “Are you hungry?”
+> “Good morning,” said Snout.
+> <br>“Are you hungry?”
 
-> “Uh… yeah, kinda…”
+> “Uh… yeah, kinda…” _Oh thank God,_ he thought.
 
 Snout nodded and turned toward a bundle of wrapped leaves near the fire.
 
@@ -283,8 +283,8 @@ It wasn’t feral hunger, just _too vivid._
 
 He took a small bite. The flavor burst open — buttery, hot, impossibly real.
 
-> “Why are you eating your leg like that?” Fight asked, smirking. <br>
-> “You look like you’re afraid to hurt it.”
+> “Why are you eating your leg like that?” Fight asked, smirking.
+> <br>“You look like you’re afraid to hurt it.”
 
 Joseph froze mid-chew. Maybe he _was_ eating weird. He took a bigger bite, forcing normalcy.
 
@@ -310,7 +310,7 @@ He took another slow bite, but the thought still lingered:
 
 _What kind of meat is this, really?_
 
-## ⚔️ Mission
+### ⚔️ Mission
 
 Joseph tried to focus on eating, but his mind wouldn’t stop racing.
 
@@ -324,13 +324,13 @@ Before he could spiral further, the camp hushed.
 
 **Eli, the Ninetales,** approached.
 
-> “Good,” he said, voice steady as stone. <br>
-> “You’re all awake.”
+> “Good,” he said, voice steady as stone.
+> <br>“You’re all awake.”
 
 > “Even our newcomer.”
 
 Joseph froze mid-bite.
-> “Uh… hi.”
+> <br>“Uh… hi.”
 
 > “Did you enjoy your walk last night?”
 
@@ -348,8 +348,8 @@ Eli turned to the others.
 
 Fight stretched, joining her.
 
-> “One more thing,” Eli added. <br>
-> “Capture, not kill. The Guild will want the thief alive.”
+> “One more thing,” Eli added.
+> <br>“Capture, not kill. The Guild will want the thief alive.”
 
 > “Alive. Got it,” Snout grinned.
 
@@ -373,7 +373,7 @@ Eli looked back with a side glance.
 
 And he walked off.
 
-## 🎲 Games
+### 🎲 Games
 
 Joseph’s ear twitched.
 

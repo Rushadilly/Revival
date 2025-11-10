@@ -6,17 +6,17 @@ permalink: /10beta
 
 ### 🕳️  Collapse
 
-Joseph ran until the world blurred.<br>
-Buildings melted into tall grass whipping against his legs as the last of the sun's glow slipped beneath the horizon.<br>
-Night rose around him, vast and breathless, and the air burned with every gasp he dragged in.
+Joseph ran until the world blurred.
+<br>Buildings melted into tall grass whipping against his legs as the last of the sun's glow slipped beneath the horizon.
+<br>Night rose around him, vast and breathless, and the air burned with every gasp he dragged in.
 
-He didn’t know where he was going — only that he needed to get away.<br>
-Away from the crowd.<br>
-Away from Soot’s voice.<br>
-Away from himself.
+He didn’t know where he was going — only that he needed to get away.
+<br>Away from the crowd.
+<br>Away from Soot’s voice.
+<br>Away from himself.
 
-His legs finally gave out and he stumbled.<br>
-He hit hard and rolled, stones scraping his side.
+His legs finally gave out and he stumbled.
+<br>He hit hard and rolled, stones scraping his side.
 
 > “Ow—” he hissed, clutching his chest as the ache spread through him.
 
@@ -26,22 +26,22 @@ The world around him was still — only the chirp of crickets and the faint crac
 
 His thoughts tangled until they were nothing but noise — the crowd’s jeers still echoing in his ears, Soot’s face flashing between hurt and disbelief.
 
-Why did he snap at her?<br>
-Why couldn’t he just keep it together?
+Why did he snap at her?
+<br>Why couldn’t he just keep it together?
 
 The anger in his chest curdled into guilt, the guilt into shame, the shame into something darker — the whisper that he was a failure to her and God.
 
-Maybe he shouldn't even try to help anyone.<br>
-Maybe he’d just ruin it all.
+Maybe he shouldn't even try to help anyone.
+<br>Maybe he’d just ruin it all.
 
 And beneath it all — the quiet truth he couldn’t shake — there was nowhere left to run. Not home — not anywhere that mattered.
 
-He pressed his paws into the dirt, chest heaving.<br>
-The tears came before he even realized it.<br>
-His throat clenched, and he let out a sound that didn’t belong to a Pokémon or a human — just something broken and lost.
+He pressed his paws into the dirt, chest heaving.
+<br>The tears came before he even realized it.
+<br>His throat clenched, and he let out a sound that didn’t belong to a Pokémon or a human — just something broken and lost.
 
-> “I didn’t sign up for this,” he rasped.<br>
-> “I can't do it.”
+> “I didn’t sign up for this,” he rasped.
+> <br>“I can't do it.”
 
 He pressed his forehead to the ground.
 
@@ -51,38 +51,38 @@ His voice cracked, echoing faintly into the trees.
 
 > “You hear me? I’m _done!_”
 
-No answer came.<br>
-Only the wind, brushing through the leaves like a whisper that refused to take shape.
+No answer came.
+<br>Only the wind, brushing through the leaves like a whisper that refused to take shape.
 
-He stayed there for a long time — long enough for his voice to go hoarse and his body to ache from the weight of his own sobs.<br>
-By the time he finally lifted his head, his face was streaked with tears and dust.
+He stayed there for a long time — long enough for his voice to go hoarse and his body to ache from the weight of his own sobs.
+<br>By the time he finally lifted his head, his face was streaked with tears and dust.
 
 He wiped at them furiously. 
 
-> “Fine,” he muttered under his breath.<br>
-> “If You won’t send me home — I’ll find my own way.”
+> “Fine,” he muttered under his breath.
+> <br>“If You won’t send me home — I’ll find my own way.”
 
 ### ❓ Answers
 
-The night was quiet in Eli’s tent.<br>
-A lantern burned low beside him, its warm glow breathing across the canvas walls and over stacks of wooden tablets arranged in careful order.
+The night was quiet in Eli’s tent.
+<br>A lantern burned low beside him, its warm glow breathing across the canvas walls and over stacks of wooden tablets arranged in careful order.
 
-Eli sat still, a tablet open before him — lines of faint, weathered script catching the light.<br>
-His eyes moved slowly over each mark, absorbing meaning more than sound.<br>
-The tent flap hung open, letting in flickers of the burning campfire and the chorus of crickets singing their songs.
+Eli sat still, a tablet open before him — lines of faint, weathered script catching the light.
+<br>His eyes moved slowly over each mark, absorbing meaning more than sound.
+<br>The tent flap hung open, letting in flickers of the burning campfire and the chorus of crickets singing their songs.
 
 He turned the page, set it aside, and reached for the next — but stopped.  
 A small silhouette stood outside.
 
 Eli looked up to see Joseph stood there — faintly lit by the dim lamp and the flickering fire.
 
-> “Joseph,” he greeted calmly.<br>
-> “It’s late.”
+> “Joseph,” he greeted calmly.
+> <br>“It’s late.”
 
 Joseph’s stare cut past the pleasantries.
 
-> “Tell me how,” His voice was still shaking, low but sharp.<br>
-> “Tell me how to get home.”
+> “Tell me how,” His voice was still shaking, low but sharp.
+> <br>“Tell me how to get home.”
 
 Eli’s tails stilled, the warm glow catching in his fur as he looked up.
 
@@ -117,27 +117,27 @@ He shook his head slowly, grasping for reason — for hope.
 
 > “No, there _has_ to be a way back — if something can bring me here then that same thing can return me again, right?”
 
-The silence that followed felt like a hammer striking stone.<br>
-Joseph stared, waiting for the part where Eli would explain — where he’d say _but maybe_ or _there’s a chance._<br>
-But Eli just looked at him with quiet regret.
+The silence that followed felt like a hammer striking stone.
+<br>Joseph stared, waiting for the part where Eli would explain — where he’d say _but maybe_ or _there’s a chance._
+<br>But Eli just looked at him with quiet regret.
 
 > “Come on! There *has* to be a way!”
 
-> “Even if there was,” Eli said,<br>
-> “you’re not ready for it.”
+> “Even if there was,” Eli said,
+> <br>“you’re not ready for it.”
 
 Joseph’s breathing quickened. 
 
 > “Don’t give me that ‘destiny’ garbage! You think I _want_ this? You think I _asked_ to be dropped in this world, to be hated, to fail at everything I try to do?”
 
-Eli didn’t respond immediately.<br>
-His expression didn’t harden — it only grew sadder. 
+Eli didn’t respond immediately.
+<br>His expression didn’t harden — it only grew sadder. 
 
-> “Joseph,” he said finally,<br>
-> “you think being sent somewhere means being comfortable there. It doesn’t.”
+> “Joseph,” he said finally,
+> <br>“you think being sent somewhere means being comfortable there. It doesn’t.”
 
-> “Spare me the parable,” Joseph snapped, turning away.<br>
-> “I’m done talking.”
+> “Spare me the parable,” Joseph snapped, turning away.
+> <br>“I’m done talking.”
 
 > “Joseph—”
 
@@ -148,8 +148,8 @@ But he was already leaving.
 He shoved past the tent flap into the cool night air, breath ragged.  
 The campfire had burned low, casting long, flickering shadows across the clearing.
 
-Voices carried over the breeze — **Fight**, **Chew**, and **Snout** returning from… whatever they were doing.<br>
-He couldn't care.
+Voices carried over the breeze — **Fight**, **Chew**, and **Snout** returning from… whatever they were doing.
+<br>He couldn't care.
 
 They slowed when they spotted him storming out, eyes narrowing with confusion.
 
@@ -223,25 +223,25 @@ Eli looked down the path where Joseph had gone, the shadows swallowing the dista
 
 ### 🚶‍♂️ Wander
 
-The night pressed in close.<br>
-Crickets sang somewhere deep in the grass, their rhythm soft and steady — a cruel contrast to the storm in Joseph’s chest.
+The night pressed in close.
+<br>Crickets sang somewhere deep in the grass, their rhythm soft and steady — a cruel contrast to the storm in Joseph’s chest.
 
-He walked the narrow path leading away from the camp, the glow of the five tents fading behind him until only darkness remained.<br>
-The fields stretched silent on either side, cool wind brushing against his fur as he trudged forward.
+He walked the narrow path leading away from the camp, the glow of the five tents fading behind him until only darkness remained.
+<br>The fields stretched silent on either side, cool wind brushing against his fur as he trudged forward.
 
-Every step felt heavier than the last.<br>
-His paws dragged, his mind circled the same thought until it scraped raw.
+Every step felt heavier than the last.
+<br>His paws dragged, his mind circled the same thought until it scraped raw.
 
-_No way back._<br>
-_Not ready._<br>
-He could still hear Eli’s calm voice, that maddening patience that made him want to scream.
+_No way back._
+<br>_Not ready._
+<br>He could still hear Eli’s calm voice, that maddening patience that made him want to scream.
 
 He found himself muttering under his breath, voice hoarse and cracking.
 
 > “Not ready for what? To _suffer?_ To watch everyone I care about slip away? To pretend I understand why **You’re** doing this?”
 
-His heart skipped a beat at his own words.<br>
-Her shook his head *hard.*
+His heart skipped a beat at his own words.
+<br>Her shook his head *hard.*
 
 > “No! Stop it! Don’t you dare blame—”
 
@@ -251,11 +251,11 @@ He swallowed hard, steadying himself. Then under his breath:
 
 He kicked a small stone. It crashed against a wooden post and rolled into the grass.
 
-His anger drained as quickly as it came.<br>
-All that was left was the dull ache of defeat.
+His anger drained as quickly as it came.
+<br>All that was left was the dull ache of defeat.
 
-Joseph sighed and sat down beside an old fence, staring into town, the glow of yellow lanterns gently illuminating the streets.<br>
-Even from here, he could hear the hum of the evening market — faint laughter, conversation, the thud of hooves and paws on dirt.
+Joseph sighed and sat down beside an old fence, staring into town, the glow of yellow lanterns gently illuminating the streets.
+<br>Even from here, he could hear the hum of the evening market — faint laughter, conversation, the thud of hooves and paws on dirt.
 
 It felt like a different world entirely. A world that kept moving while his own had stopped.
 
@@ -263,8 +263,8 @@ He lowered, resting his chin in his paws. Eyes closed, he whispered:
 
 > “I just want to go home.”
 
-The words hung in the cool air, weightless and unanswered.<br>
-He wanted to cry again because he felt like it'd help, but the tears just wouldn’t come.
+The words hung in the cool air, weightless and unanswered.
+<br>He wanted to cry again because he felt like it'd help, but the tears just wouldn’t come.
 
 Motionless, he forced in a long breath… and that’s when he caught a voice.
 
@@ -274,14 +274,14 @@ Playful. Smooth. Almost _too_ smooth.
 
 > “Well, if it isn’t the Eevee who started a riot.”
 
-Joseph’s ears twitched at the sound.<br>
-He turned to see a Sylveon, Crystal leaning against a fencepost, ribbons swaying lazily in the night breeze.<br>
-Her eyes caught the faint glow of the lamps, soft pink against the dark blue night.
+Joseph’s ears twitched at the sound.
+<br>He turned to see a Sylveon, Crystal leaning against a fencepost, ribbons swaying lazily in the night breeze.
+<br>Her eyes caught the faint glow of the lamps, soft pink against the dark blue night.
 
 > “Oh… you again,” he muttered.
 
-> *“You again?”* she echoed, mock offense in her tone.<br>
-> “That’s no way to greet a lady.”
+> *“You again?”* she echoed, mock offense in her tone.
+> <br>“That’s no way to greet a lady.”
 
 > Joseph sighed. “Didn’t think you’d remember me.”
 
@@ -314,9 +314,9 @@ She paused, eyes narrowing slightly.
 
 > He froze. “Humans?”
 
-> “Mhm~” Her ribbons twirled idly as she spoke.<br>
-> “Old stories say they were these fragile, fascinating creatures from another world. Always dreaming about somewhere else. They walked around in borrowed bodies — pretending to be one of us. Until one day… _poof._ Gone.”<br>
-> She smiled faintly. “Kind of romantic, don’t you think?”
+> “Mhm~” Her ribbons twirled idly as she spoke.
+> <br>“Old stories say they were these fragile, fascinating creatures from another world. Always dreaming about somewhere else. They walked around in borrowed bodies — pretending to be one of us. Until one day… _poof._ Gone.”
+> <br>She smiled faintly. “Kind of romantic, don’t you think?”
 
 Something flickered behind her eyes — wistfulness, almost sadness — before she blinked it away.
 
@@ -340,14 +340,14 @@ He froze — too long — before blurting out,
 
 His ear twitched — she’d _just_ explained that.
 
-> “You don’t know?” she teased.<br>
-> “Well, lucky you — I work at the town archives. We keep all sorts of dusty legends about them. Not that anyone’s allowed in but staff.”
+> “You don’t know?” she teased.
+> <br>“Well, lucky you — I work at the town archives. We keep all sorts of dusty legends about them. Not that anyone’s allowed in but staff.”
 
-> “The archive?” he echoed.<br>
-> “There’s an archive here?”
+> “The archive?” he echoed.
+> <br>“There’s an archive here?”
 
-> “Of course.” She arched her back proudly.<br>
-> “But it’s not exactly open to curious Eevees.”
+> “Of course.” She arched her back proudly.
+> <br>“But it’s not exactly open to curious Eevees.”
 
 Joseph hesitated.
 
@@ -365,10 +365,10 @@ He thought fast.
 
 _She likes to play these flirting games. Maybe if I play along, she’ll help? I just need to figure out how to flirt…_
 
-> “Maybe…” he said, forcing a grin.<br>
-> “I may not be human, but if I knew a little more about them…”<br>
-> He met her eyes, summoning what confidence he could.<br>
-> “I could probably _convince you._”
+> “Maybe…” he said, forcing a grin.
+> <br>“I may not be human, but if I knew a little more about them…”
+> <br>He met her eyes, summoning what confidence he could.
+> <br>“I could probably _convince you._”
 
 The words hung in the air.
 
@@ -388,8 +388,8 @@ Crystal giggled, covering her mouth.
 
 > “I—I don’t,” he stammered.
 
-> “Too late to take it back now.” She turned, flicking her tail in his direction.<br>
-> “Alright, little pretender. You want to see the archives?”
+> “Too late to take it back now.” She turned, flicking her tail in his direction.
+> <br>“Alright, little pretender. You want to see the archives?”
 
 > His ears perked. “You’ll really take me?”
 
@@ -409,8 +409,8 @@ He hesitated, a pit forming in his stomach. Giving her that kind of promise felt
 
 > “…Fine. Deal.”
 
-> “Good,” she said, already walking toward the road.<br>
-> “Let’s go before I change my mind.”
+> “Good,” she said, already walking toward the road.
+> <br>“Let’s go before I change my mind.”
 
 He followed, his pulse still racing, stomach twisting between fear and curiosity.
 

@@ -8,7 +8,7 @@ Short story #5 of the Revival series! A good ol' game of _Static Chase_**.** Tag
 
 ---
 
-## ⚡ Chase
+### ⚡ Chase
 
 **Sparks flashed left.**
 
@@ -62,7 +62,7 @@ The Pikachu sped toward him, still sparking.
 
 His body seized as he fell back into the dirt.
 
-## 🏆 Winning
+### 🏆 Winning
 
 Joseph’s limbs twitched as the charge faded, a burnt tang hanging in the air.
 
@@ -98,7 +98,7 @@ Chew just wiggled his tail smugly, sparks still dancing across his cheeks.
 
 > “You made it, yeah—but you didn’t _win_. There’s a difference.”
 
-## 💥 Losing
+### 💥 Losing
 
 Joseph's eyes narrowed as he internalized an exasperated sigh—
 
@@ -140,8 +140,8 @@ his voice pitched a little too high.
 
 He grinned again, but it was tight around the edges.
 
-> “I—I didn’t mean to,” Joseph stammered, voice thin. <br>
-> “It was an accident.”
+> “I—I didn’t mean to,” Joseph stammered, voice thin.
+> <br>“It was an accident.”
 
 Chew gave a short laugh, crackling like static.
 
@@ -151,7 +151,7 @@ He kicked at the dirt, not quite meeting Joseph’s eyes.
 
 > “Anyway, you, uh—you reached the pit, so… guess that’s a win, right?”
 
-## 💫 Aftershock
+### 💫 Aftershock
 
 Joseph’s stomach knotted.
 
@@ -243,7 +243,7 @@ The air between them eased, if only a little.
 
 Before either could say more, a voice rang out across camp.
 
-## 📌 Errand
+### 📌 Errand
 
 > “Joseph! Chew!”
 
