@@ -901,19 +901,20 @@ h3 {
 .nav a {
     padding: 10px;
     border-radius: 96px;
-    background: grey;
+    background: #171717;
+    color: white;
 }
-.nav a:hover {
-    background: white;
-}
-
 /* Custom social-link colors */
 .nav a.link-email {
-    background: red;
+    color: red;
 }
 .nav a.link-deviantart {
-    background: green;
+    color: #00E59B;
 }
 .nav a.link-tumblr {
-    background: darkblue;
+    color: #00B8FF;
+}
+/* Custom hover colors */
+.nav a:hover {
+    background: #414d5a;
 }
