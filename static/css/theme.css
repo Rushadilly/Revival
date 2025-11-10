@@ -406,26 +406,6 @@
     padding-bottom: 3rem
 }
 
-.link-angel-list:hover {
-    color: #000 !important
-}
-
-.link-github:hover {
-    color: #333 !important
-}
-
-.link-email:hover {
-    color: #FF554A !important
-}
-
-.link-keybase:hover {
-    color: #FF6F29 !important
-}
-
-.link-hacker-news:hover {
-    color: #FF6327 !important
-}
-
 *, *:before, *:after {
     box-sizing: border-box;
     text-rendering: optimizeLegibility
@@ -908,7 +888,6 @@ h3 {
     background: #171717;
     color: white;
 }
-/* Custom social-link colors */
 .nav a.link-email {
     color: red;
 }
@@ -921,7 +900,17 @@ h3 {
 /* Custom hover colors */
 .nav a:hover {
     background: #414d5a;
-    color: 0087F8;
+    color: #171717;
+}
+.nav a.link-email:hover {
+    background: red;
+}
+.nav a.link-deviantart:hover {
+    background: #00E59B;
+}
+.nav a.link-tumblr:hover {
+    background: #00B8FF;
+    color: #171717;
 }
 
 /* Line divider spacing */
