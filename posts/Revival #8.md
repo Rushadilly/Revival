@@ -1,5 +1,5 @@
 ---
-title: "Revival: Ashes in the River (2/2)
+title: "Revival: Ashes in the River (2/2)"
 date: 2025-09-28
 permalink: /1/8
 ---
