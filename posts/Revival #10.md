@@ -4,6 +4,8 @@ date: 2022-11-06
 permalink: /10beta
 ---
 
+<a href="/1/9">Prev</a> <a href="/1/1">First</a>
+
 ### 🕳️  Collapse
 
 Joseph ran until the world blurred.
