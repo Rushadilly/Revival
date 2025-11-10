@@ -798,7 +798,7 @@ pre .lineno {
 /* Make site dark theme */
 body {
     background: #17171a;
-    color: white;    
+    color: #ffffffd0;    
 }
 
 /* Color quotes blue */
@@ -866,7 +866,7 @@ h3 {
 .nav a {
     padding: 10px;
     background: #17171a;
-    color: white;
+    color: #ffffffd0;
 }
 .nav a.link-email {
     color: red;
@@ -909,7 +909,7 @@ b, strong {
 /* Next and previous navigation */
 a {
     background: #272730;
-    color: white;
+    color: #ffffffd0;
     padding: 10px 8px 10px 8px;
     text-decoration: none;
 }
@@ -924,6 +924,6 @@ a:last-of-type {
     padding-right: 20px;
 }
 a:hover {
-    background: white;
+    background: #ffffffd0;
     color: #272730
 }
