@@ -926,6 +926,9 @@ b, strong {
     color: hotpink;
 }
 
+a {
+    background: #272730;
+}
 a:not(:has(+ a )) {
     border-top-left-radius: 96px;
     border-bottom-left-radius: 96px;
