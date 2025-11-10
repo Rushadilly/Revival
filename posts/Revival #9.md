@@ -1,8 +1,8 @@
 ---
-<br>title: "Revival: Breaking Point"
-<br>date: 2025-09-28
-<br>permalink: /1/9
-<br>---
+title: "Revival: Breaking Point"
+date: 2025-09-28
+permalink: /1/9
+---
 
 I hope you’ve been lifting, because issue #9 of _Revival_ gets heavy. 🏋️‍♂️  
 Longing. Dread. Desperation. Rebellion. Regret. Betrayal.
