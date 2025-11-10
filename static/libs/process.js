@@ -12,6 +12,8 @@ window.onload = function() {
 	let nav = `<center> ${links} </center>`;
 	
 	header.innerHTML += nav;
-	footer.innerHTML = nav + footer.innerHTML;
+	if (footer) {
+		footer.innerHTML = nav + footer.innerHTML;
+	}
 
 };
