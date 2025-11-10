@@ -1,19 +1,37 @@
 
 window.onload = function() {
 	const addNav = document.querySelector('script[nav]');
+	if (!addNav) {
+		return;
+	}
+	
 	let header = document.querySelector('header');
 	let footer = document.querySelector('footer');
   	
-	let prev = `/Revival/${addNav.getAttribute('prev')}`.replace("/Revival//", "/Revival/");
-	let next = `/Revival/${addNav.getAttribute('next')}`.replace("/Revival//", "/Revival/");
-	let links = `<a href='${prev}'>&lt;&lt; Prev</a>`
+	let prevLink = ``;
+	if (addNav.hasAttribute("prev")) {
+		let prev = addNav.getAttribute('prev')
+		let prevUrl = `/Revival/${prev}`.replace("/Revival//", "/Revival/");
+		prevLink = `<a href='${prevUrl}'>&lt;&lt; Prev</a>`;
+	}
+
+	let nextLink = ``;
+	if (addNav.hasAttribute("prev")) {
+		let prev = addNav.getAttribute('prev')
+		let prevUrl = `/Revival/${prev}`.replace("/Revival//", "/Revival/");
+		nextLink = `<a href='${prevUrl}'>&lt;&lt; Prev</a>`;
+	}
+
+	let links = prevLink
 		+ `<a href='/Revivavl/1/1'>First</a>`
-		+ `<a href='${next}'>Next &gt;&gt;</a>`
-	let nav = `<center>${links}</center>`;
+		+ nextLink
+	let nav = `<hr><center>${links}</center><hr>`;
 	
-	const newElement = document.createElement('p');
-	newElement.innerHTML = nav;
-	header.appendChild(newElement);
+	if (header) {
+		const newElement = document.createElement('p');
+		newElement.innerHTML = nav;
+		header.appendChild(newElement);
+	}
 
 	if (footer) {
 		const newElement2 = document.createElement('p');
