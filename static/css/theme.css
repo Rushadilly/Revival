@@ -873,9 +873,12 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 
-/* Center headers */
+/* Headers */
 h3 {
     text-align: center;
+    /* Make headers always mimic being bold */
+    font-weight: bold;
+    color: hotpink;
 }
 
 /* Make the navigation bar float */
@@ -923,4 +926,12 @@ h3 {
 /* Line divider spacing */
 hr {
     margin: 32px;
+}
+
+/* Bold and italics */
+em {
+    color: pink;
+}
+b, strong {
+    color: hotpink;
 }
