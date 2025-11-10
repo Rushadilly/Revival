@@ -864,7 +864,6 @@ h3 {
 
 /* Nav link styling */
 .nav a {
-    padding: 10px;
     background: #17171a;
     color: #ffffffd0;
 }
@@ -890,7 +889,6 @@ h3 {
 }
 .nav a.link-tumblr:hover {
     background: #00B8FF;
-    color: #17171a;
 }
 
 /* Line divider spacing */
