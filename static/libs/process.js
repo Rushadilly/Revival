@@ -11,9 +11,14 @@ window.onload = function() {
 		+ `<a href='${next}'>Next</a>`
 	let nav = `<center>${links}</center>`;
 	
-	// header.innerHTML += nav;
-	// if (footer) {
-	// 	footer.innerHTML = nav + footer.innerHTML;
-	// }
+	const newElement = document.createElement('div');
+	newElement.innerHTML = nav;
+	header.appendChild(newElement);
+
+	if (footer) {
+		const newElement2 = document.createElement('div');
+		newElement2.innerHTML = nav;
+		footer.prepend(newElement2);
+	}
 
 };
