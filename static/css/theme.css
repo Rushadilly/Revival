@@ -909,6 +909,7 @@ b, strong {
 
 a {
     background: #272730;
+    padding: 8px;
 }
 a:not(:has(+ a )) {
     border-top-left-radius: 96px;
