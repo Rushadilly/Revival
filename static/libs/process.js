@@ -15,4 +15,5 @@ window.onload = function() {
 	
 	header.innerHTML += nav;
 	footer.innerHTML = nav + footer.innerHTML;
+	
 };
