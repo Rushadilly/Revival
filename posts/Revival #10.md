@@ -4,7 +4,7 @@ date: 2022-11-06
 permalink: /10beta
 ---
 
-<script nav src="/Revival/lib/inject.js" prev="/1/9">
+<script nav src="/Revival/libs/process.js" prev="/1/9">
 
 ---
 
