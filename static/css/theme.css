@@ -797,7 +797,7 @@ pre .lineno {
 
 /* Make site dark theme */
 body {
-    background: #171717;
+    background: #17171a;
     color: white;    
 }
 
@@ -865,8 +865,7 @@ h3 {
 /* Nav link styling */
 .nav a {
     padding: 10px;
-    border-radius: 96px;
-    background: #171717;
+    background: #17171a;
     color: white;
 }
 .nav a.link-email {
@@ -881,7 +880,7 @@ h3 {
 /* Custom hover colors */
 .nav a:hover {
     background: #ffffff;
-    color: #171717;
+    color: #17171a;
 }
 .nav a.link-email:hover {
     background: red;
@@ -891,7 +890,7 @@ h3 {
 }
 .nav a.link-tumblr:hover {
     background: #00B8FF;
-    color: #171717;
+    color: #17171a;
 }
 
 /* Line divider spacing */
@@ -911,18 +910,18 @@ b, strong {
 a {
     background: #272730;
     color: white;
-    padding: 16px 8px 16px 8px;
+    padding: 10px 8px 10px 8px;
     text-decoration: none;
 }
 a:first-of-type {
     border-top-left-radius: 96px;
     border-bottom-left-radius: 96px;
-    padding-left: 32px;
+    padding-left: 20px;
 }
 a:last-of-type {
     border-top-right-radius: 96px;
     border-bottom-right-radius: 96px;
-    padding-right: 32px;
+    padding-right: 20px;
 }
 a:hover {
     background: white;
