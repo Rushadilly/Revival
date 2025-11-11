@@ -323,7 +323,7 @@ Joseph's heart skipped a beat. The words clung to him like echoes in the dark �
 
 She kept going before he could even find the words to respond.
 
-> <br>“Kind of **_romantic_**, don’t you think?” She smiled faintly.
+> “Kind of **_romantic_**, don’t you think?” She smiled faintly.
 
 > He swallowed. “Romantic?”
 
@@ -358,9 +358,8 @@ His ear twitched in realization — she’d **just** explained that.
 
 Joseph hesitated.
 
-_If she knows about humans, maybe she knows something about getting home. But I’d have to tell her the truth…_
-
-_…unless I could read the records myself…_
+> _If she knows about humans, maybe she knows something about getting home. But I’d have to tell her the truth…_
+> <br>_…unless I could read the records myself…_
 
 > “Can you take me there?” he asked.
 
@@ -372,7 +371,7 @@ He felt heat rise in his ears again. For a moment, he almost stammered, but then
 
 So he forced a laugh he didn’t feel.
 
-_She likes to play these flirting games. Maybe if I play along, she’ll help. I just need to figure out how flirting works…_
+> _She likes to play these flirting games. Maybe if I play along, she’ll help. I just need to figure out how flirting works…_
 
 > “Maybe…” he said, forcing a grin.
 > <br>“I may not be human, but if I knew a little more about them…”
@@ -385,7 +384,7 @@ Her eyes widened slightly — surprise first, then amusement. And for half a hea
 
 Joseph saw it. And that’s when it hit him.
 
-_**Convince you!?** Holy smokes, that was way too forward!_
+> _**Convince you!?** Holy smokes, that was way too forward!_
 
 Heat rushed up his neck faster than he could blink.
 
@@ -423,8 +422,8 @@ He hesitated, a pit forming in his stomach. Giving her that kind of promise felt
 
 He followed, his pulse still racing, stomach twisting between fear and curiosity.
 
-_I hope I didn’t just make a terrible mistake._
+> _I hope I didn’t just make a terrible mistake._
 
 He scoffs at the thought.
 
-_Like I haven't already made several today._
+> _Like I haven't already made several today._
