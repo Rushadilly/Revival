@@ -1,5 +1,5 @@
 ---
-title: "Revival: Far from Home"
+title: "Revival: Breaking Point (2/3)"
 date: 2025-11-10
 permalink: /1/10
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Revival: Breaking Point"
+title: "Revival: Breaking Point (1/3)"
 date: 2025-11-03
 permalink: /1/9
 ---
