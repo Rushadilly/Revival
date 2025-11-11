@@ -441,7 +441,7 @@ hr {
 }
 
 hr::before {
-    color: #888;
+    color: var(--night-text-fade);
     margin-left: 2rem;
     content: "•••";
     font-size: 1rem;
@@ -470,7 +470,7 @@ ol li > p .reversefootnote, ul li > p .reversefootnote {
 
 sup a {
     border-bottom: 0;
-    color: #888;
+    color: var(--night-text-fade);
     font-family: "Lato", -apple-system, Helvetica, Arial, sans-serif;
     text-decoration: none
 }
@@ -481,7 +481,7 @@ sup a:hover {
 
 time {
     display: block;
-    color: #888;
+    color: var(--night-text-fade);
     font-family: "Lato", -apple-system, Helvetica, Arial, sans-serif
 }
 
@@ -512,7 +512,7 @@ table th, table td {
 
 table th {
     font-weight: 600;
-    background: #fff;
+    background-color: #fff;
     border-left: 1px solid #E8E8E8
 }
 
@@ -530,7 +530,7 @@ table td {
 }
 
 footer {
-    color: #888;
+    color: var(--night-text-fade);
     font-size: 0.9rem;
     font-family: "Lato", -apple-system, Helvetica, Arial, sans-serif;
     font-weight: 400
@@ -541,14 +541,14 @@ footer {
 }
 
 .intro__head {
-    color: #ffffffd0;
+    color: var(--night-text);
     font-size: 1.75rem;
     font-weight: 700;
 }
 
 .intro__sub {
     margin-top: .77rem;
-    color: #888;
+    color: var(--night-text-fade);
     font-size: 1.35rem;
     font-weight: 500;
     line-height: 2rem;
@@ -586,7 +586,7 @@ footer {
 }
 
 .about__description {
-    color: #888;
+    color: var(--night-text-fade);
     margin: .5rem 0;
     font-size: 1.25rem
 }
@@ -657,7 +657,7 @@ footer {
     width: 100%;
     font-family: "Lato", -apple-system, Helvetica, Arial, sans-serif;
     font-size: .95rem;
-    color: #ffffffd0;
+    color: var(--night-text);
     text-decoration: none;
     transition: color .25s, padding-left .25s
 }
@@ -673,7 +673,7 @@ footer {
 }
 
 .post__date {
-    color: #888;
+    color: var(--night-text-fade);
     font-size: .8rem
 }
 
@@ -732,7 +732,7 @@ pre .lineno {
 }
 
 .mc-title-container__sub {
-    color: #888;
+    color: var(--night-text-fade);
     font-size: .95rem;
     font-family: "Lato", -apple-system, Helvetica, Arial, sans-serif
 }
@@ -788,15 +788,44 @@ pre .lineno {
 
 /* Rushadilly */
 
+:root {
+    --night-text: #ffffffd0;
+    --night-text-fade: #888;
+
+    --night-background: #17171a;
+    --night-elmnt: #272730;
+    --night-elmnt-hover: var(--night-text);
+    --night-bold-color: #d15f98f0;
+    --night-italic-color: #ffb3c1c0;
+    --night-quote-color: #59acc7;
+
+    --night-nav-background: #2f2f2f;
+    --night-nav-elmnt: var(--night-background);
+    --night-nav-elmnt-hover: var(--night-text);
+
+    --email-icon: url(https://cdn-icons-png.flaticon.com/128/2099/2099199.png);
+    --email-filter: filter: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);;
+    --email-elmnt-hover: red;
+    --email-text: var(--email-elmnt-hover);
+
+    --devart-icon: url(https://imgs.search.brave.com/cMq8ClsM8IECnSIHwvGR_C3OQ-D4AA7GYQWpPg5h8kY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pY29u/LWxpYnJhcnkuY29t/L2ltYWdlcy9kZXZp/YW50LWFydC1pY29u/L2RldmlhbnQtYXJ0/LWljb24tMTAuanBn);
+    --devart-elmnt-hover: #00E59B;
+    --devart-text: var(--devart-elmnt-hover);
+
+    --tumblr-icon: url(https://imgs.search.brave.com/_7fvoNCQ9ykAqsOEZPb1McsCFW2LjHZdGrdv6OiJUyw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG40/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbWl1LWZsYXQt/c29jaWFsLzYwL3R1/bWJsci01MTIucG5n);
+    --tumblr-elmnt-hover: #00B8FF;
+    --tumblr-text: var(--tumblr-elmnt-hover);
+}
+
 /* Make site dark theme */
 body {
-    background: #17171a;
-    color: #ffffffd0;    
+    background-color: var(--night-background);
+    color: var(--night-text);    
 }
 
 /* Color quotes blue */
 blockquote p {
-    color: #59acc7;
+    color: var(--night-quote-color);
 }
 
 /* Set font to Ubuntu */
@@ -833,7 +862,7 @@ h3 {
     text-align: center;
     /* Make headers always mimic being bold */
     font-weight: bold;
-    color: #d15f98f0;
+    color: var(--night-bold-color);
 }
 
 /* Make the navigation bar float */
@@ -843,7 +872,7 @@ h3 {
     left: 0px;
     top: 0px;
     margin: 0px;
-    background: #2f2f2f;
+    background-color: var(--night-nav-background);
     padding: 16px;
 }
 .nav + * {
@@ -857,31 +886,41 @@ h3 {
 
 /* Nav link styling */
 .nav a {
-    background: #17171a;
-    color: #ffffffd0;
+    background-color: var(--night-nav-elmnt-hover);
+    color: var(--night-text);
 }
+.nav a:hover {
+    background-color: #ffffff;
+    color: var(--night-nav-elmnt);
+}
+
 .nav a.link-email {
-    color: red;
+    filter: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
 }
+.nav a.link-email:hover {
+    background-color: var(--email-elmnt-hover);
+    filter: none;
+}
+
 .nav a.link-deviantart {
     color: #00E59B;
 }
+.nav a.link-deviantart:hover {
+    background-color: var(--devart-elmnt-hover);
+}
+
 .nav a.link-tumblr {
     color: #00B8FF;
 }
-/* Custom hover colors */
-.nav a:hover {
-    background: #ffffff;
-    color: #17171a;
-}
-.nav a.link-email:hover {
-    background: red;
-}
-.nav a.link-deviantart:hover {
-    background: #00E59B;
-}
 .nav a.link-tumblr:hover {
-    background: #00B8FF;
+    background-color: var(--tumblr-elmnt-hover);
+}
+
+a img {
+    height: 1.25rem;
+    margin: 0rem;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 /* Line divider spacing */
@@ -891,20 +930,26 @@ hr {
 
 /* Bold and italics */
 em {
-    color: #ffb3c1c0;
+    color: var(--night-italic-color);
 }
 b, strong {
-    color: #d15f98f0;
+    color: var(--night-bold-color);
 }
 
 /* Next and previous navigation */
 a {
-    background: #272730;
-    color: #ffffffd0;
+    background-color: var(--night-elmnt);
+    color: var(--night-text);
     padding: 10px 8px 10px 8px;
     text-decoration: none;
     transition: all 0.15s ease;
     border-radius: 96px;
+
+    /* Default values for adding icons */
+    background-size: 2rem;
+    background-repeat: no-repeat;
+    padding: 10px 1.1rem;
+    background-position: center;
 }
 
 a:not(:first-of-type) {
@@ -926,6 +971,6 @@ a:last-of-type {
 }
 
 a:hover {
-    background: #ffffffd0;
-    color: #272730
+    background-color: var(--night-text);
+    color: var(--night-elmnt);
 }
