@@ -23,7 +23,7 @@ window.onload = function() {
 	}
 
 	let links = prevLink
-		+ `<a href='/Revivavl/1/1'>First</a>`
+		+ `<a href='/Revival/1/1'>First</a>`
 		+ nextLink
 	let nav = `<hr><center>${links}</center><hr>`;
 	
