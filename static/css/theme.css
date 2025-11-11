@@ -595,7 +595,7 @@ footer {
     margin-bottom: 0;
     padding-bottom: 0.5rem;
     border-bottom: 1px solid #E8E8E8;
-    color: #00AB72;
+    color: #5150ff;
     font-size: 1.15rem;
     font-weight: 700;
     font-style: normal
@@ -663,8 +663,9 @@ footer {
 }
 
 .post:hover {
-    color: #0087F8;
-    padding-left: 2rem
+    color: #5150ff;
+    padding-left: 2rem;
+    font-weight: bold;
 }
 
 .post__title {
@@ -925,6 +926,6 @@ a:last-of-type {
 }
 
 a:hover {
-    background: #ffffffd0;
+    background: #ffffff;
     color: #272730
 }
