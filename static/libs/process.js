@@ -19,7 +19,7 @@ window.onload = function() {
 	if (addNav.hasAttribute("next")) {
 		let next = addNav.getAttribute('next')
 		let nextUrl = `/Revival/${next}`.replace("/Revival//", "/Revival/");
-		nextLink = `<a href='${nextUrl}'>&lt;&lt; Next</a>`;
+		nextLink = `<a href='${nextUrl}'>Next &gt;&gt;</a>`;
 	}
 
 	let links = prevLink
