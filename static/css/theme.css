@@ -903,17 +903,24 @@ a {
     padding: 10px 8px 10px 8px;
     text-decoration: none;
     transition: all 0.15s ease;
+    border-radius: 96px;
 }
-a:first-of-type {
-    border-top-left-radius: 96px;
-    border-bottom-left-radius: 96px;
+
+.nav a:not(:first-of-type) {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.nav a:not(:last-of-type) {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.nav a:first-of-type {
     padding-left: 20px;
 }
-a:last-of-type {
-    border-top-right-radius: 96px;
-    border-bottom-right-radius: 96px;
+.nav a:last-of-type {
     padding-right: 20px;
 }
+
 a:hover {
     background: #ffffffd0;
     color: #272730
