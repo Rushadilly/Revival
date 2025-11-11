@@ -902,6 +902,7 @@ a {
     color: #ffffffd0;
     padding: 10px 8px 10px 8px;
     text-decoration: none;
+    transition: all 0.15s ease;
 }
 a:first-of-type {
     border-top-left-radius: 96px;
