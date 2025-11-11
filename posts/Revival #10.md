@@ -1,5 +1,5 @@
 ---
-title: "Revival: To Be Human"
+title: "Revival: Far from Home"
 date: 2022-11-06
 permalink: /1/10
 ---
