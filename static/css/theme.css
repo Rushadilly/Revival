@@ -649,11 +649,11 @@ footer {
 }
 
 .post {
+    margin-top: 8px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid #E8E8E8;
-    padding: 0.5rem 0;
+    padding: 0.5rem 1rem;
     width: 100%;
     font-family: "Lato", -apple-system, Helvetica, Arial, sans-serif;
     font-size: .95rem;
@@ -664,7 +664,7 @@ footer {
 
 .post:hover {
     color: #0087F8;
-    padding-left: 1rem
+    padding-left: 2rem
 }
 
 .post__title {
