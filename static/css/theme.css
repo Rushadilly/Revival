@@ -803,16 +803,18 @@ pre .lineno {
     --night-nav-elmnt: var(--night-background);
     --night-nav-elmnt-hover: var(--night-text);
 
-    --email-icon: url(https://cdn-icons-png.flaticon.com/128/2099/2099199.png);
-    --email-filter: filter: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);;
+    --email-icon: url(https://www.svgrepo.com/download/507361/mail.svg);
+    --email-elmnt-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
     --email-elmnt-hover: red;
     --email-text: var(--email-elmnt-hover);
 
-    --devart-icon: url(https://imgs.search.brave.com/cMq8ClsM8IECnSIHwvGR_C3OQ-D4AA7GYQWpPg5h8kY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pY29u/LWxpYnJhcnkuY29t/L2ltYWdlcy9kZXZp/YW50LWFydC1pY29u/L2RldmlhbnQtYXJ0/LWljb24tMTAuanBn);
+    --devart-icon: url(https://www.svgrepo.com/download/473583/deviantart.svg);
+    --devart-elmnt-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
     --devart-elmnt-hover: #00E59B;
     --devart-text: var(--devart-elmnt-hover);
 
-    --tumblr-icon: url(https://imgs.search.brave.com/_7fvoNCQ9ykAqsOEZPb1McsCFW2LjHZdGrdv6OiJUyw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG40/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbWl1LWZsYXQt/c29jaWFsLzYwL3R1/bWJsci01MTIucG5n);
+    --tumblr-icon: url(https://www.svgrepo.com/download/66655/tumblr-logo.svg);
+    --tumblr-elmnt-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
     --tumblr-elmnt-hover: #00B8FF;
     --tumblr-text: var(--tumblr-elmnt-hover);
 }
@@ -886,32 +888,38 @@ h3 {
 
 /* Nav link styling */
 .nav a {
-    background-color: var(--night-nav-elmnt-hover);
+    background-color: var(--night-nav-elmnt);
     color: var(--night-text);
 }
 .nav a:hover {
-    background-color: #ffffff;
+    background-color: var(--night-nav-elmnt-hover);;
     color: var(--night-nav-elmnt);
 }
 
-.nav a.link-email img {
-    filter: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
+.nav a.link-email .icon {
+    background-image: var(--email-icon);
+    filter: var(--email-elmnt-filter-hover);
 }
 .nav a.link-email:hover {
     background-color: var(--email-elmnt-hover);
 }
-.nav a.link-email:hover img {
+.nav a.link-email:hover .icon {
     filter: none;
 }
 
-.nav a.link-deviantart  {
-    color: #00E59B;
+.nav a.link-deviantart img {
+    background-image: var(--devart-icon);
+    filter: var(--devart-elmnt-filter-hover);
 }
 .nav a.link-deviantart:hover {
     background-color: var(--devart-elmnt-hover);
 }
+.nav a.link-deviantart:hover img {
+    filter: none;
+}
 
 .nav a.link-tumblr {
+    background-image: var(--tumblr-icon);
     color: #00B8FF;
 }
 .nav a.link-tumblr:hover {
