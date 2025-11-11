@@ -20,7 +20,7 @@ He didn’t know where he was going — only that he needed to get away.
 His legs finally gave out and he stumbled.
 <br>He hit hard and rolled, stones scraping his side.
 
-> “_Ow—_” he hissed, clutching his chest as the ache spread through him.
+> _Ow—_ he hissed, clutching his chest as the ache spread through him.
 
 Dirt clung to his fur, the sting grounding him more than the air ever could.
 
@@ -61,8 +61,8 @@ He stayed there for a long time — long enough for his voice to go hoarse and h
 
 He wiped at them furiously. 
 
-> _“Fine,_” he muttered under his breath.
-> <br>“_If You won’t send me home — I’ll find my own way._”
+> _Fine,_ he muttered under his breath.
+> <br>_If You won’t send me home — I’ll find my own way._
 
 ### ❓ Answers
 
@@ -202,12 +202,9 @@ Eli’s eyes flicked toward him.
 > “No,” Fight snapped, bitterness cutting through.  
 > “Guess he’s your _favorite_ now.”
 
-Chew shifted awkwardly behind him; Snout looked down, saying nothing.  
-The fire cracked once.
-
 Eli’s voice came low but with unmistakable force.
 
-> “**Enough.**”
+> **“Enough.”**
 
 Chew shifted awkwardly behind him; Snout looked down, saying nothing.
 <br>Fight froze.
@@ -285,7 +282,7 @@ Joseph’s ears twitched at the sound.
 
 > “Oh… you again,” he muttered.
 
-> _“You again?”_ she echoed, mock offense in her tone.
+> “You again?” she echoed, mock offense in her tone.
 > <br>“That’s no way to greet a lady.”
 
 > Joseph sighed. “Didn’t think you’d remember me.”
