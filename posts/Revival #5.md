@@ -1,6 +1,6 @@
 ---
 title: "Revival: Static Chase"
-date: 2025-09-28
+date: 2025-10-05
 permalink: /1/5
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Revival: When the Night Listened"
-date: 2025-09-28
+date: 2025-09-27
 permalink: /1/3
 ---
 

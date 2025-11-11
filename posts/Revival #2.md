@@ -1,6 +1,6 @@
 ---
 title: "Revival: Restless Night"
-date: 2025-09-28
+date: 2025-09-26
 permalink: /1/2
 ---
 

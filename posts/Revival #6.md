@@ -1,6 +1,6 @@
 ---
 title: "Revival: All Eyes"
-date: 2025-09-28
+date: 2025-10-08
 permalink: /1/6
 ---
 

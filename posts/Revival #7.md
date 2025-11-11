@@ -1,6 +1,6 @@
 ---
 title: "Revival: Ashes in the River (1/2)"
-date: 2025-09-28
+date: 2025-10-17
 permalink: /1/7
 ---
 

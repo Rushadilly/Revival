@@ -1,6 +1,6 @@
 ---
 title: "Revival: Breaking Point"
-date: 2025-09-28
+date: 2025-11-03
 permalink: /1/9
 ---
 

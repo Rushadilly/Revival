@@ -1,6 +1,6 @@
 ---
 title: "Revival: Far from Home"
-date: 2022-11-06
+date: 2025-11-10
 permalink: /1/10
 ---
 
