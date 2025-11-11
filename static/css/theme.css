@@ -894,15 +894,17 @@ h3 {
     color: var(--night-nav-elmnt);
 }
 
-.nav a.link-email {
+.nav a.link-email img {
     filter: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
 }
 .nav a.link-email:hover {
     background-color: var(--email-elmnt-hover);
+}
+.nav a.link-email:hover img {
     filter: none;
 }
 
-.nav a.link-deviantart {
+.nav a.link-deviantart  {
     color: #00E59B;
 }
 .nav a.link-deviantart:hover {
