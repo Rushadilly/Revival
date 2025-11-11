@@ -4,7 +4,7 @@ window.onload = function() {
 	if (!addNav) {
 		return;
 	}
-	
+
 	let header = document.querySelector('header');
 	let footer = document.querySelector('footer');
   	
@@ -16,10 +16,10 @@ window.onload = function() {
 	}
 
 	let nextLink = ``;
-	if (addNav.hasAttribute("prev")) {
-		let prev = addNav.getAttribute('prev')
-		let prevUrl = `/Revival/${prev}`.replace("/Revival//", "/Revival/");
-		nextLink = `<a href='${prevUrl}'>&lt;&lt; Prev</a>`;
+	if (addNav.hasAttribute("next")) {
+		let next = addNav.getAttribute('next')
+		let nextUrl = `/Revival/${next}`.replace("/Revival//", "/Revival/");
+		nextLink = `<a href='${nextUrl}'>&lt;&lt; Next</a>`;
 	}
 
 	let links = prevLink
