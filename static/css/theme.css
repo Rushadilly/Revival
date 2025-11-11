@@ -832,7 +832,7 @@ h3 {
     text-align: center;
     /* Make headers always mimic being bold */
     font-weight: bold;
-    color: hotpink;
+    color: #d15f98f0;
 }
 
 /* Make the navigation bar float */
@@ -890,10 +890,10 @@ hr {
 
 /* Bold and italics */
 em {
-    color: #ffb3c1;
+    color: #ffb3c1c0;
 }
 b, strong {
-    color: hotpink;
+    color: #d15f98f0;
 }
 
 /* Next and previous navigation */
