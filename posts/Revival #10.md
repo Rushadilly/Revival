@@ -1,7 +1,7 @@
 ---
-title: "Revival: (WIP)"
+title: "Revival: To Be Human"
 date: 2022-11-06
-permalink: /10beta
+permalink: /1/10
 ---
 
 <script nav src="/Revival/libs/process.js" prev="/1/9"></script>
@@ -9,7 +9,7 @@ permalink: /10beta
 ### 🕳️  Collapse
 
 Joseph ran until the world blurred.
-<br>Buildings melted into tall grass whipping against his legs as the last of the sun's glow slipped beneath the horizon.
+<br>Buildings melted into tall grass whipping against his fur as the last of the sun's glow slipped beneath the horizon.
 <br>Night rose around him, vast and breathless, and the air burned with every gasp he dragged in.
 
 He didn’t know where he was going — only that he needed to get away.
@@ -20,23 +20,23 @@ He didn’t know where he was going — only that he needed to get away.
 His legs finally gave out and he stumbled.
 <br>He hit hard and rolled, stones scraping his side.
 
-> “Ow—” he hissed, clutching his chest as the ache spread through him.
+> “_Ow—_” he hissed, clutching his chest as the ache spread through him.
 
 Dirt clung to his fur, the sting grounding him more than the air ever could.
 
 The world around him was still — only the chirp of crickets and the faint crackle of a distant campfire.
 
-His thoughts tangled until they were nothing but noise — the crowd’s jeers still echoing in his ears, Soot’s face flashing between hurt and disbelief.
+His thoughts tangled until they were nothing but noise — **the crowd’s jeers** still echoing in his ears, **Soot’s face** flashing between **hurt** and **disbelief.**
 
 Why did he snap at her?
 <br>Why couldn’t he just keep it together?
 
-The anger in his chest curdled into guilt, the guilt into shame, the shame into something darker — the whisper that he was a failure to her and God.
+The anger in his chest curdled into guilt, the guilt into shame, the shame into something darker — the whisper that he was a **failure** to **her** and **God.**
 
 Maybe he shouldn't even try to help anyone.
-<br>Maybe he’d just ruin it all.
+<br>Maybe he’d just **ruin** it all.
 
-And beneath it all — the quiet truth he couldn’t shake — there was nowhere left to run. Not home — not anywhere that mattered.
+And beneath it all — the quiet truth he couldn’t shake — there was nowhere left to run. Not **home** — not anywhere that mattered.
 
 He pressed his paws into the dirt, chest heaving.
 <br>The tears came before he even realized it.
@@ -51,7 +51,7 @@ He pressed his forehead to the ground.
 
 His voice cracked, echoing faintly into the trees.
 
-> “You hear me? I’m _done!_”
+> “You hear me? I’m **done!**”
 
 No answer came.
 <br>Only the wind, brushing through the leaves like a whisper that refused to take shape.
@@ -61,8 +61,8 @@ He stayed there for a long time — long enough for his voice to go hoarse and h
 
 He wiped at them furiously. 
 
-> “Fine,” he muttered under his breath.
-> <br>“If You won’t send me home — I’ll find my own way.”
+> _“Fine,_” he muttered under his breath.
+> <br>“_If You won’t send me home — I’ll find my own way._”
 
 ### ❓ Answers
 
@@ -90,7 +90,7 @@ Eli’s tails stilled, the warm glow catching in his fur as he looked up.
 
 > “Home?”
 
-> “You know what I mean. I don’t belong here. I’m not supposed to _be_ here.”
+> “You know what I mean. I don’t belong here. I’m not supposed to **be** here.”
 
 Eli’s gaze sharpened for just a breath, then settled into calm.
 
@@ -100,15 +100,15 @@ Eli’s gaze sharpened for just a breath, then settled into calm.
 
 Joseph slammed a paw against the table, startling himself with the force of it. 
 
-> “Don’t talk around me! You _know_! You’ve met humans before, or _something_! You know what I am! You know I don't belong here!”
+> “Don’t talk around me! You **know**! You’ve met humans before, or **something**! You know what I am! You know I don't belong here!”
 
 Eli’s gaze lowered.
 
-> “I know what you were, but—”
+> “I know what you _were_, but—”
 
-Something in him snapped at that word.
+Joseph's pulse spiked. It was as if the word itself erased him. Like everything he’d been was already gone.
 
-> “Don’t say _were!_” Joseph blurt out, the words breaking from him before he could stop them.
+> “Don’t say **were!**” Joseph blurted out, the words breaking from him before he could stop them.
 
 Eli paused, watching him.
 
@@ -117,20 +117,20 @@ Eli paused, watching him.
 Joseph’s breath caught. The anger in his voice faltered, softening into something more fragile.  
 He shook his head slowly, grasping for reason — for hope.
 
-> “No, there _has_ to be a way back — if something can bring me here then that same thing can return me again, right?”
+> “No, there **has** to be a way back — if something can bring me here then that same thing can return me again, right?”
 
 The silence that followed felt like a hammer striking stone.
 <br>Joseph stared, waiting for the part where Eli would explain — where he’d say _but maybe_ or _there’s a chance._
 <br>But Eli just looked at him with quiet regret.
 
-> “Come on! There *has* to be a way!”
+> “Come on! There **has** to be a way!”
 
 > “Even if there was,” Eli said,
 > <br>“you’re not ready for it.”
 
 Joseph’s breathing quickened. 
 
-> “Don’t give me that ‘destiny’ garbage! You think I _want_ this? You think I _asked_ to be dropped in this world, to be hated, to fail at everything I try to do?”
+> “Don’t give me that ‘destiny’ garbage! You think I **want** this? You think I **asked** to be dropped in this world, to be **hated**, to **fail** at everything I try to do?”
 
 Eli didn’t respond immediately.
 <br>His expression didn’t harden — it only grew sadder. 
@@ -170,14 +170,14 @@ Joseph didn’t answer. He just kept walking.
 
 Joseph stopped just long enough for the air to still between them — then turned, eyes sharp and wet with anger.
 
-> “I said shut up!”
+> “I said **shut up!**”
 
 The words tore out of him, raw and louder than he intended.  
 Chew flinched, and Snout's ears flicked back.
 
 > “Joseph!” Snout called after him, half in disbelief.
 
-But he was already walking again — head low, tail dragging — disappearing into the dark beyond the tents.
+But he was already walking again — head low, tail dragging — dissapearing into ngiht.
 
 A heavy quiet followed.
 
@@ -185,15 +185,15 @@ A heavy quiet followed.
 > “You let him talk to me like that, Eli?”
 
 Eli stepped from the tent, the lamplight behind him painting his fur in soft gold.  
-His expression was calm — too calm.
+His expression was calm — **too calm.**
 
 > “Watch your tone, Fight.”
 
-> “What? You’d have torn _me_ apart for half that attitude!”  
+> “What? You’d have torn **me** apart for half that attitude!”  
 
 Fight gestured toward the path Joseph had vanished down.  
 
-> “But him? You just let him throw a tantrum and walk off?”
+> “But **him?** You just let him throw a tantrum and walk off?”
 
 Eli’s eyes flicked toward him.
 
@@ -207,13 +207,15 @@ The fire cracked once.
 
 Eli’s voice came low but with unmistakable force.
 
-> “Enough.”
+> “**Enough.**”
 
-Fight froze. The single word carried weight — quiet, measured, final.
+Chew shifted awkwardly behind him; Snout looked down, saying nothing.
+<br>Fight froze.
+<br>The single word carried weight — quiet, measured, final.
 
 Eli held his gaze.
 
-> “You forget yourself. Whatever’s between you and him, leave it. I’ll handle Joseph.”
+> “You forget yourself. Whatever’s between you and him, **leave it.** I’ll handle Joseph.”
 
 For a long moment, no one spoke.  
 Then Fight exhaled sharply through his nose and turned away, muttering under his breath.
@@ -236,20 +238,21 @@ Every step felt heavier than the last.
 
 _No way back._
 <br>_Not ready._
+
 <br>He could still hear Eli’s calm voice, that maddening patience that made him want to scream.
 
 He found himself muttering under his breath, voice hoarse and cracking.
 
-> “Not ready for what? To _suffer?_ To watch everyone I care about slip away? To pretend I understand why **You’re** doing this?”
+> _Not ready for what? To **suffer?** To watch everyone I care about slip away? To pretend I understand why **You’re** doing this?_
 
 His heart skipped a beat at his own words.
-<br>Her shook his head *hard.*
+<br>He shook his head **hard.**
 
 > “No! Stop it! Don’t you dare blame—”
 
 He swallowed hard, steadying himself. Then under his breath:
 
-> “Stop thinking like that, you worthless rat.”
+> _Stop thinking like that, you **worthless** rat._
 
 He kicked a small stone. It crashed against a wooden post and rolled into the grass.
 
@@ -263,14 +266,14 @@ It felt like a different world entirely. A world that kept moving while his own 
 
 He lowered, resting his chin in his paws. Eyes closed, he whispered:
 
-> “I just want to go home.”
+> _I just want to go home._
 
 The words hung in the cool air, weightless and unanswered.
 <br>He wanted to cry again because he felt like it'd help, but the tears just wouldn’t come.
 
 Motionless, he forced in a long breath… and that’s when he caught a voice.
 
-Playful. Smooth. Almost _too_ smooth.
+Playful. Smooth. Almost **too** smooth.
 
 ### 🌓 Mysterious
 
@@ -282,25 +285,25 @@ Joseph’s ears twitched at the sound.
 
 > “Oh… you again,” he muttered.
 
-> *“You again?”* she echoed, mock offense in her tone.
+> _“You again?”_ she echoed, mock offense in her tone.
 > <br>“That’s no way to greet a lady.”
 
 > Joseph sighed. “Didn’t think you’d remember me.”
 
-> “Oh, I remember _everybody_ who stares at the ground while talking to me.”
+> “Oh, I remember **everybody** who _stares at the ground_ while talking to me.”
 
 Joseph, suddenly self-aware, snaps his eyes up to hers.
 
 She stepped closer, smiling in that teasing, sing-song way that made him unsure if she was joking.
 
-> “You looked like you wanted to vanish into the dirt. It was cute.”
+> “You looked like you wanted to vanish into the dirt. It was _cute._”
 
 He blinked, unsure how to respond to that kind of tone.
 
 > “Hmm,” she hummed, clearly amused by his hesitation.  
-> “And maybe a little _mysterious_.” She began to circle him, slow and casual.
+> “And maybe a little **mysterious.**” She began to circle him, slow and casual.
 
-Joseph turned with her, matching her slow circle — more out of self-defense than confidence.
+Joseph turned with her, matching her slow circle — more out of self-defense than anything.
 
 > “You know,” she said, “you really don’t act like the others around here. Sometimes I wonder if you’re even really one of us.”
 
@@ -308,19 +311,22 @@ Joseph turned with her, matching her slow circle — more out of self-defense th
 
 Her grin widened — like she’d been waiting for that reaction.
 
-> “Oh, nothing bad. You just… have that _look._ Like someone who doesn’t belong here"
+> “Oh, nothing bad. You just… have that **look.** Like someone who doesn’t belong here"
 
 She paused, eyes narrowing slightly.
 
-> "like one of those humans.”
+> "like one of those _humans._”
 
 > He froze. “Humans?”
 
 > “Mhm~” Her ribbons twirled idly as she spoke.
-> <br>“Old stories say they were these fragile, fascinating creatures from another world. Always dreaming about somewhere else. They walked around in borrowed bodies — pretending to be one of us. Until one day… _poof._ Gone.”
-> <br>She smiled faintly. “Kind of romantic, don’t you think?”
+> <br>“Old stories say they were these fragile, **fascinating** creatures from _another world_. Always **dreaming** about somewhere else. They walked around in _borrowed bodies — pretending_ to be one of us. Until one day… **Poof.** _Gone._”
 
-Something flickered behind her eyes — wistfulness, almost sadness — before she blinked it away.
+Joseph's heart skipped a beat. The words clung to him like echoes in the dark — _Another world?_ _Borrowed bodies?_ _Gone?_
+
+She kept going before he could even find the words to respond.
+
+> <br>“Kind of **_romantic_**, don’t you think?” She smiled faintly.
 
 > He swallowed. “Romantic?”
 
@@ -332,18 +338,20 @@ Her gaze lingered on him for a beat too long.
 
 His heart kicked in his chest. 
 
-_She can’t know, can she? Did she hear me talking to myself? What did I say out loud?_
+_She can’t know, can she?_ 
+_Did she hear me talking to myself?_
+_What did I say out loud?_
 
 He froze — too long — before blurting out,
 
-> “W-what’s a human?”
+> “What’s a human?”
 
 ### 📖 Archives
 
-His ear twitched — she’d _just_ explained that.
+His ear twitched in realization — she’d **just** explained that.
 
 > “You don’t know?” she teased.
-> <br>“Well, lucky you — I work at the town archives. We keep all sorts of dusty legends about them. Not that anyone’s allowed in but staff.”
+> <br>“Well, lucky you — I work at the town _archives_. We keep all sorts of dusty legends about them. Not that anyone’s allowed in but staff.”
 
 > “The archive?” he echoed.
 > <br>“There’s an archive here?”
@@ -355,17 +363,19 @@ Joseph hesitated.
 
 _If she knows about humans, maybe she knows something about getting home. But I’d have to tell her the truth…_
 
-_…unless I could read the records myself._
+_…unless I could read the records myself…_
 
 > “Can you take me there?” he asked.
 
 Crystal’s eyes glimmered.
 
-> “Depends. Why would you want to go poking through old stories about humans, hm? Planning to fall in love with one?”
+> “Depends. Why would you want to go poking through old stories about **humans**, hm? Planning to fall in love with one?”
 
-He thought fast.
+He felt heat rise in his ears again. For a moment, he almost stammered, but then he stopped himself. He wasn't going to miss his chance of finding a way home.
 
-_She likes to play these flirting games. Maybe if I play along, she’ll help? I just need to figure out how to flirt…_
+So he forced a laugh he didn’t feel.
+
+_She likes to play these flirting games. Maybe if I play along, she’ll help. I just need to figure out how flirting works…_
 
 > “Maybe…” he said, forcing a grin.
 > <br>“I may not be human, but if I knew a little more about them…”
@@ -374,11 +384,11 @@ _She likes to play these flirting games. Maybe if I play along, she’ll help? I
 
 The words hung in the air.
 
-Her eyes widened slightly — surprise first, then amusement. And for half a heartbeat, she actually looked _flustered._
+Her eyes widened slightly — surprise first, then amusement. And for half a heartbeat, she actually looked **flustered.**
 
 Joseph saw it. And that’s when it hit him.
 
-_Convince you!? Holy smokes, that was way too forward!_
+_**Convince you!?** Holy smokes, that was way too forward!_
 
 Heat rushed up his neck faster than he could blink.
 
@@ -391,7 +401,7 @@ Crystal giggled, covering her mouth.
 > “I—I don’t,” he stammered.
 
 > “Too late to take it back now.” She turned, flicking her tail in his direction.
-> <br>“Alright, little pretender. You want to see the archives?”
+> <br>“Alright, little pretender. You want to see the _archives?_”
 
 > His ears perked. “You’ll really take me?”
 
@@ -407,7 +417,7 @@ Joseph's stomach twisted.
 
 > She hummed. “You’ll see.”
 
-He hesitated, a pit forming in his stomach. Giving her that kind of promise felt dangerous—but *needed* to read those archives.
+He hesitated, a pit forming in his stomach. Giving her that kind of promise felt dangerous—but he **needed** to read those archives.
 
 > “…Fine. Deal.”
 
