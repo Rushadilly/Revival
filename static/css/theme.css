@@ -541,7 +541,7 @@ footer {
 }
 
 .intro__head {
-    color: #333;
+    color: #ffffffd0;
     font-size: 1.75rem;
     font-weight: 700;
 }
@@ -926,6 +926,6 @@ a:last-of-type {
 }
 
 a:hover {
-    background: #ffffff;
+    background: #ffffffd0;
     color: #272730
 }
