@@ -657,7 +657,7 @@ footer {
     width: 100%;
     font-family: "Lato", -apple-system, Helvetica, Arial, sans-serif;
     font-size: .95rem;
-    color: #333;
+    color: #ffffffd0;
     text-decoration: none;
     transition: color .25s, padding-left .25s
 }
@@ -906,19 +906,22 @@ a {
     border-radius: 96px;
 }
 
-.nav a:not(:first-of-type) {
+a:not(:first-of-type) {
     border-top-left-radius: 0px;
     border-bottom-left-radius: 0px;
 }
-.nav a:not(:last-of-type) {
+a:not(:last-of-type) {
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
 }
-.nav a:first-of-type {
+a:first-of-type {
     padding-left: 20px;
 }
-.nav a:last-of-type {
+a:last-of-type {
     padding-right: 20px;
+}
+.post-list a {
+    border-radius: 96px;
 }
 
 a:hover {
