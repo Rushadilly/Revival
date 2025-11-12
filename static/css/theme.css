@@ -803,17 +803,17 @@ pre .lineno {
     --night-nav-elmnt: var(--night-background);
     --night-nav-elmnt-hover: var(--night-text);
 
-    --email-icon: url(https://www.svgrepo.com/download/507361/mail.svg);
+    --email-icon: url(/Revival/images/mail-icon.svg);
     --email-elmnt-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
     --email-elmnt-hover: red;
     --email-text: var(--email-elmnt-hover);
 
-    --devart-icon: url(https://www.svgrepo.com/download/473583/deviantart.svg);
+    --devart-icon: url(/Revival/images/deviantart-icon.svg);
     --devart-elmnt-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
     --devart-elmnt-hover: #00E59B;
     --devart-text: var(--devart-elmnt-hover);
 
-    --tumblr-icon: url(https://www.svgrepo.com/download/66655/tumblr-logo.svg);
+    --tumblr-icon: url(/Revival/images/tumblr-icon.svg);
     --tumblr-elmnt-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
     --tumblr-elmnt-hover: #00B8FF;
     --tumblr-text: var(--tumblr-elmnt-hover);
@@ -894,6 +894,9 @@ h3 {
 .nav a:hover {
     background-color: var(--night-nav-elmnt-hover);;
     color: var(--night-nav-elmnt);
+}
+.nav a .icon {
+    display: inline-block;
 }
 
 .nav a.link-email .icon {
