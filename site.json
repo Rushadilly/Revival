@@ -11,17 +11,18 @@
         "href": "mailto:rush116sx@gmail.com",
         "class": "link-email",
         "target": "_blank",
-        "body": "<div class='icon'></div>"
+        "body": "<img>"
       },
       "deviantart": {
         "href": "https://www.deviantart.com/rushadilly",
         "class": "link-deviantart",
-        "body": "<div class='icon'></div>"
+        "title": "Find me on Deviantart!",
+        "body": "<img>"
       },
       "tumblr":  {
         "href": "https://www.tumblr.com/blog/rushadilly",
         "class": "link-tumblr",
-        "body": "<div class='icon'></div>"
+        "body": "<img>"
       }
   },
   "newsletter": {

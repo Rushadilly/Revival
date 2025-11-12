@@ -902,10 +902,11 @@ h3 {
     background-color: var(--bg-hover, var(--night-nav-elmnt-hover));
     color: var(--txt-clr-hvr, var(--night-nav-elmnt));
 }
-.nav a .icon {
+.nav a img {
     background: var(--icon, "") no-repeat center / cover;
     display: inline-block;
     position: absolute;
+    margin: 0px;
     filter: var(--icon-fltr, none);
     transform: translate(-50%, -50%);
     top: 50%;
@@ -970,10 +971,10 @@ a:not(:last-of-type) {
     border-bottom-right-radius: 0px;
 }
 a:first-of-type {
-    padding-left: 20px;
+    padding-left: 1.5rem;
 }
 a:last-of-type {
-    padding-right: 20px;
+    padding-right: 1.5rem;
 }
 .post-list a {
     border-radius: 96px;
