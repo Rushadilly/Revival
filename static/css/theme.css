@@ -908,19 +908,16 @@ h3 {
     --bg-hover: var(--email-elmnt-hover);
     --icon: var(--email-icon);
     --icon-fltr: var(--email-elmnt-filter-hover);
-    --icon-fltr-hover: var(--email-elmnt-filter-hover);
 }
 .nav a.link-deviantart {
     --bg-hover: var(--devart-elmnt-hover);
     --icon: var(--devart-icon);
     --icon-fltr: var(--devart-elmnt-filter-hover);
-    --icon-fltr-hover: var(--devart-elmnt-filter-hover);
 }
 .nav a.link-tumblr {
     --bg-hover: var(--tumblr-elmnt-hover);
     --icon: var(--tumblr-icon);
     --icon-fltr: var(--tumblr-elmnt-filter-hover);
-    --icon-fltr-hover: var(--tumblr-elmnt-filter-hover);
 }
 
 /* Line divider spacing */
