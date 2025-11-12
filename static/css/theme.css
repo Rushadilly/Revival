@@ -890,35 +890,37 @@ h3 {
 /* Nav link class */
 .nav a {
     background-color: var(--bg, var(--night-nav-elmnt));
-    background-image: var(--img, "");
-    filter: var(--img-fltr-hvr, none);
+    background-image: var(--icon, "");
     color: var(--txt-clr, var(--night-text));
+    filter: var(--icon-fltr, none);
 }
 .nav a:hover {
-    background-color: var(--bg-hvr, var(--night-nav-elmnt-hover));
-    filter: none;
+    background-color: var(--bg-hover, var(--night-nav-elmnt-hover));
     color: var(--txt-clr-hvr, var(--night-nav-elmnt));
+    filter: var(--icon-fltr-hover, none);
 }
 .nav a .icon {
     display: inline-block;
 }
 
 /* Navigation links */
-.nav a[class^="link-"] {
-    --i-fltr: var(--email-elmnt-filter-hover);
-    --img-fltr-hvr: var(--email-elmnt-filter-hover);
-}
 .nav a.link-email {
-    --img: var(--email-icon);
-    --bg-hvr: var(--email-elmnt-hover);
+    --bg-hover: var(--email-elmnt-hover);
+    --icon: var(--email-icon);
+    --icon-fltr: var(--email-elmnt-filter-hover);
+    --icon-fltr-hover: var(--email-elmnt-filter-hover);
 }
 .nav a.link-deviantart {
-    --img: var(--devart-icon);
-    --bg-hvr: var(--devart-elmnt-hover);
+    --bg-hover: var(--devart-elmnt-hover);
+    --icon: var(--devart-icon);
+    --icon-fltr: var(--devart-elmnt-filter-hover);
+    --icon-fltr-hover: var(--devart-elmnt-filter-hover);
 }
 .nav a.link-tumblr {
-    --img: var(--tumblr-icon);
-    --bg-hvr: var(--tumblr-elmnt-hover);
+    --bg-hover: var(--tumblr-elmnt-hover);
+    --icon: var(--tumblr-icon);
+    --icon-fltr: var(--tumblr-elmnt-filter-hover);
+    --icon-fltr-hover: var(--tumblr-elmnt-filter-hover);
 }
 
 /* Line divider spacing */
