@@ -817,6 +817,12 @@ pre .lineno {
     --tumblr-icon-filter-hover: invert(47%) sepia(93%) saturate(728%) hue-rotate(162deg) brightness(100%) contrast(109%);
     --tumblr-bg-hover: #00B8FF;
     --tumblr-color: var(--tumblr-bg-hover);
+
+    --home-icon: url(/Revival/images/home-icon.svg);
+    --home-icon-filter-hover: invert(100%) sepia(0%) saturate(704%) hue-rotate(315deg) brightness(103%) contrast(101%);
+
+    --about-icon: url(/Revival/images/about-me-icon.svg);
+    --about-icon-filter-hover: invert(100%) sepia(0%) saturate(704%) hue-rotate(315deg) brightness(103%) contrast(101%);
 }
 
 /* Make site dark theme */
@@ -912,7 +918,7 @@ h3 {
     top: 50%;
     padding: 0.65rem;
 }
-.nav a:hover .icon {
+.nav a:hover img {
     filter: var(--icon-fltr-hover, none);
 }
 
@@ -931,6 +937,14 @@ h3 {
     --bg-hover: var(--tumblr-bg-hover);
     --icon: var(--tumblr-icon);
     --icon-fltr: var(--tumblr-icon-filter-hover);
+}
+.nav a.link-home {
+    --icon: var(--home-icon);
+    --icon-fltr: var(--home-icon-filter-hover);
+}
+.nav a.link-about {
+    --icon: var(--about-icon);
+    --icon-fltr: var(--about-icon-filter-hover);
 }
 
 /* Line divider spacing */
