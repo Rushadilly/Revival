@@ -10,17 +10,17 @@
       "email":   {
         "base": "mailto:rush116sx@gmail.com",
         "cls": "link-email",
-        "content": "<div class='icon'></div>"
+        "content": ""
       },
       "deviantart": {
         "base": "https://www.deviantart.com/rushadilly",
         "cls": "link-deviantart",
-        "content": "<div class='icon'></div>"
+        "content": ""
       },
       "tumblr":  {
         "base": "https://www.tumblr.com/blog/rushadilly",
         "cls": "link-tumblr",
-        "content": "<div class='icon'></div>"
+        "content": ""
       }
   },
   "newsletter": {
