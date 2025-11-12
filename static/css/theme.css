@@ -869,16 +869,17 @@ h3 {
 
 /* Make the navigation bar float */
 .nav {
-    position: fixed;
+    position: sticky;
     right: 0px;
     left: 0px;
     top: 0px;
     margin: 0px;
     background-color: var(--night-nav-background);
     padding: 16px;
+    border-radius: 96px;
 }
 .nav + * {
-    margin-top: 64px;
+    margin-top: 1rem;
 }
 
 /* Text color of nav bar children is almost black */
