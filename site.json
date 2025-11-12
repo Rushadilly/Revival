@@ -6,10 +6,25 @@
     "name": "Rushadilly",
     "email": "rush116sx@gmail.com"
   },
+  "navigation": {
+      "home":   {
+        "href": "/Revival/",
+        "class": "link-home",
+        "title": "See the full catalog!",
+        "body": "<img>"
+      },
+      "about": {
+        "href": "/Revival/about",
+        "class": "link-about",
+        "title": "Learn more about me and Revival!",
+        "body": "<img>"
+      }
+  },
   "social": {
       "email":   {
         "href": "mailto:rush116sx@gmail.com",
         "class": "link-email",
+        "title": "Send me an email!",
         "target": "_blank",
         "body": "<img>"
       },
@@ -22,6 +37,7 @@
       "tumblr":  {
         "href": "https://www.tumblr.com/blog/rushadilly",
         "class": "link-tumblr",
+        "title": "Find me on Tumblr!",
         "body": "<img>"
       }
   },
