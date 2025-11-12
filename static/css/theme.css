@@ -942,7 +942,7 @@ h3 {
     --icon: var(--home-icon);
     --icon-fltr: var(--home-icon-filter-hover);
 }
-.nav a.link-about {
+.nav a.link-about-me {
     --icon: var(--about-icon);
     --icon-fltr: var(--about-icon-filter-hover);
 }

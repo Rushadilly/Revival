@@ -15,7 +15,7 @@
       },
       "about": {
         "href": "/Revival/about",
-        "class": "link-about",
+        "class": "link-about-me",
         "title": "Learn more about me and Revival!",
         "body": "<img>"
       }
