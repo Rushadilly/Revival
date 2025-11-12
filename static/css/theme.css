@@ -887,51 +887,40 @@ h3 {
     color: #1f1f1f
 }
 
-/* Nav link styling */
+/* Nav link class */
 .nav a {
-    background-color: var(--night-nav-elmnt);
-    color: var(--night-text);
+    background-color: var(--bg, --night-nav-elmnt);
+    background-image: var(--img, "");
+    filter: var(--img-fltr-hvr, none);
+    color: var(--txt-clr, --night-text);
 }
 .nav a:hover {
-    background-color: var(--night-nav-elmnt-hover);;
-    color: var(--night-nav-elmnt);
+    background-color: var(--bg-hvr, --night-nav-elmnt-hover);
+    filter: none;
+    color: var(--txt-clr-hvr, --night-nav-elmnt);
 }
 .nav a .icon {
     display: inline-block;
 }
 
+/* Navigation links */
 .nav a.link-email {
-    background-image: var(--email-icon);
-    filter: var(--email-elmnt-filter-hover);
+    --img: var(--email-icon);
+    --i-fltr: var(--email-elmnt-filter-hover);
+    --img-fltr-hvr: var(--email-elmnt-filter-hover);
+    --bg-clr-hvr: var(--email-elmnt-hover);
 }
-.nav a.link-email:hover {
-    background-color: var(--email-elmnt-hover);
-    filter: none;
-}
-
 .nav a.link-deviantart {
-    background-image: var(--devart-icon);
-    filter: var(--devart-elmnt-filter-hover);
+    --img: var(--devart-icon);
+    --i-fltr: var(--devart-elmnt-filter-hover);
+    --img-fltr-hvr: var(--devart-elmnt-filter-hover);
+    --bg-clr-hvr: var(--devart-elmnt-hover);
 }
-.nav a.link-deviantart:hover {
-    background-color: var(--devart-elmnt-hover);
-    filter: none;
-}
-
 .nav a.link-tumblr {
-    background-image: var(--tumblr-icon);
-    filter: var(--tumblr-elmnt-filter-hover);
-}
-.nav a.link-tumblr:hover {
-    background-color: var(--tumblr-elmnt-hover);
-    filter: none;
-}
-
-a img {
-    height: 1.25rem;
-    margin: 0rem;
-    display: inline-block;
-    vertical-align: middle;
+    --img: var(--tumblr-icon);
+    --i-fltr: var(--tumblr-elmnt-filter-hover);
+    --img-fltr-hvr: var(--tumblr-elmnt-filter-hover);
+    --bg-clr-hvr: var(--tumblr-elmnt-hover);
 }
 
 /* Line divider spacing */
