@@ -890,7 +890,6 @@ h3 {
 /* Nav link class */
 .nav a {
     background-color: var(--bg, var(--night-nav-elmnt));
-    background-image: var(--icon, "");
     color: var(--txt-clr, var(--night-text));
 }
 .nav a:hover {
@@ -907,7 +906,6 @@ h3 {
     padding: 0.75rem;
 }
 .nav a:hover .icon {
-    background-size: cover;
     filter: var(--icon-fltr-hover, none);
 }
 
