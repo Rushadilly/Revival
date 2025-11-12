@@ -910,14 +910,14 @@ h3 {
     filter: none;
 }
 
-.nav a.link-deviantart img {
+.nav a.link-deviantart .icon {
     background-image: var(--devart-icon);
     filter: var(--devart-elmnt-filter-hover);
 }
 .nav a.link-deviantart:hover {
     background-color: var(--devart-elmnt-hover);
 }
-.nav a.link-deviantart:hover img {
+.nav a.link-deviantart:hover .icon {
     filter: none;
 }
 
