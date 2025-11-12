@@ -900,34 +900,31 @@ h3 {
     display: inline-block;
 }
 
-.nav a.link-email .icon {
+.nav a.link-email {
     background-image: var(--email-icon);
     filter: var(--email-elmnt-filter-hover);
 }
 .nav a.link-email:hover {
     background-color: var(--email-elmnt-hover);
-}
-.nav a.link-email:hover .icon {
     filter: none;
 }
 
-.nav a.link-deviantart .icon {
+.nav a.link-deviantart {
     background-image: var(--devart-icon);
     filter: var(--devart-elmnt-filter-hover);
 }
 .nav a.link-deviantart:hover {
     background-color: var(--devart-elmnt-hover);
-}
-.nav a.link-deviantart:hover .icon {
     filter: none;
 }
 
 .nav a.link-tumblr {
     background-image: var(--tumblr-icon);
-    color: #00B8FF;
+    filter: var(--tumblr-elmnt-filter-hover);
 }
 .nav a.link-tumblr:hover {
     background-color: var(--tumblr-elmnt-hover);
+    filter: none;
 }
 
 a img {
