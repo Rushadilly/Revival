@@ -804,19 +804,19 @@ pre .lineno {
     --night-nav-elmnt-hover: var(--night-text);
 
     --email-icon: url(/Revival/images/mail-icon.svg);
-    --email-elmnt-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
-    --email-elmnt-hover: red;
-    --email-text: var(--email-elmnt-hover);
+    --email-icon-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
+    --email-bg-hover: red;
+    --email-color: var(--email-bg-hover);
 
     --devart-icon: url(/Revival/images/deviantart-icon.svg);
-    --devart-elmnt-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
-    --devart-elmnt-hover: #00E59B;
-    --devart-text: var(--devart-elmnt-hover);
+    --devart-icon-filter-hover: invert(69%) sepia(40%) saturate(2100%) hue-rotate(108deg) brightness(95%) contrast(102%);
+    --devart-bg-hover: #00E59B;
+    --devart-color: var(--devart-bg-hover);
 
     --tumblr-icon: url(/Revival/images/tumblr-icon.svg);
-    --tumblr-elmnt-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
-    --tumblr-elmnt-hover: #00B8FF;
-    --tumblr-text: var(--tumblr-elmnt-hover);
+    --tumblr-icon-filter-hover: invert(47%) sepia(93%) saturate(728%) hue-rotate(162deg) brightness(100%) contrast(109%);
+    --tumblr-bg-hover: #00B8FF;
+    --tumblr-color: var(--tumblr-bg-hover);
 }
 
 /* Make site dark theme */
@@ -892,32 +892,40 @@ h3 {
     background-color: var(--bg, var(--night-nav-elmnt));
     background-image: var(--icon, "");
     color: var(--txt-clr, var(--night-text));
-    filter: var(--icon-fltr, none);
 }
 .nav a:hover {
     background-color: var(--bg-hover, var(--night-nav-elmnt-hover));
     color: var(--txt-clr-hvr, var(--night-nav-elmnt));
-    filter: var(--icon-fltr-hover, none);
 }
 .nav a .icon {
+    background: var(--icon, "") no-repeat center / cover;
     display: inline-block;
+    position: absolute;
+    filter: var(--icon-fltr, none);
+    transform: translate(-50%, -50%);
+    top: 50%;
+    padding: 0.75rem;
+}
+.nav a:hover .icon {
+    background-size: cover;
+    filter: var(--icon-fltr-hover, none);
 }
 
 /* Navigation links */
 .nav a.link-email {
-    --bg-hover: var(--email-elmnt-hover);
+    --bg-hover: var(--email-bg-hover);
     --icon: var(--email-icon);
-    --icon-fltr: var(--email-elmnt-filter-hover);
+    --icon-fltr: var(--email-icon-filter-hover);
 }
 .nav a.link-deviantart {
-    --bg-hover: var(--devart-elmnt-hover);
+    --bg-hover: var(--devart-bg-hover);
     --icon: var(--devart-icon);
-    --icon-fltr: var(--devart-elmnt-filter-hover);
+    --icon-fltr: var(--devart-icon-filter-hover);
 }
 .nav a.link-tumblr {
-    --bg-hover: var(--tumblr-elmnt-hover);
+    --bg-hover: var(--tumblr-bg-hover);
     --icon: var(--tumblr-icon);
-    --icon-fltr: var(--tumblr-elmnt-filter-hover);
+    --icon-fltr: var(--tumblr-icon-filter-hover);
 }
 
 /* Line divider spacing */
