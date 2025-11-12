@@ -8,19 +8,20 @@
   },
   "social": {
       "email":   {
-        "base": "mailto:rush116sx@gmail.com",
-        "cls": "link-email",
-        "content": "<div class='icon'></div>"
+        "href": "mailto:rush116sx@gmail.com",
+        "class": "link-email",
+        "target": "_blank",
+        "body": "<div class='icon'></div>"
       },
       "deviantart": {
-        "base": "https://www.deviantart.com/rushadilly",
-        "cls": "link-deviantart",
-        "content": "<div class='icon'></div>"
+        "href": "https://www.deviantart.com/rushadilly",
+        "class": "link-deviantart",
+        "body": "<div class='icon'></div>"
       },
       "tumblr":  {
-        "base": "https://www.tumblr.com/blog/rushadilly",
-        "cls": "link-tumblr",
-        "content": "<div class='icon'></div>"
+        "href": "https://www.tumblr.com/blog/rushadilly",
+        "class": "link-tumblr",
+        "body": "<div class='icon'></div>"
       }
   },
   "newsletter": {
