@@ -26,17 +26,18 @@ Dirt clung to his fur, the sting grounding him more than the air ever could.
 
 The world around him was still — only the chirp of crickets and the faint crackle of a distant campfire.
 
-His thoughts tangled until they were nothing but noise — **the crowd’s jeers** still echoing in his ears, **Soot’s face** flashing between **hurt** and **disbelief.**
+His thoughts tangled until they were nothing but noise — the crowd’s jeers still echoing in his ears, Soot’s face flashing between hurt and disbelief.
 
 Why did he snap at her?
 <br>Why couldn’t he just keep it together?
 
-The anger in his chest curdled into guilt, the guilt into shame, the shame into something darker — the whisper that he was a **failure** to **her** and **God.**
+The anger in his chest curdled into guilt, the guilt into shame, the shame into something darker — the whisper that he was a failure to her and God.
 
 Maybe he shouldn't even try to help anyone.
 <br>Maybe he’d just **ruin** it all.
 
-And beneath it all — the quiet truth he couldn’t shake — there was nowhere left to run. Not **home** — not anywhere that mattered.
+And beneath it all — the quiet truth he couldn’t shake — there was nowhere left to run.
+<br>Not home — not anywhere that mattered.
 
 He pressed his paws into the dirt, chest heaving.
 <br>The tears came before he even realized it.
@@ -67,9 +68,9 @@ He wiped at them furiously.
 ### ❓ Answers
 
 The night was quiet in Eli’s tent.
-<br>A lantern burned low beside him, its warm glow breathing across the canvas walls and over stacks of wooden tablets arranged in careful order.
+<br>A lantern burned low beside him, its warm glow breathing across the canvas walls and over stacks of parchment arranged in careful order.
 
-Eli sat still, a tablet open before him — lines of faint, weathered script catching the light.
+Eli sat still, a sheet open before him — lines of faint, weathered script catching the light.
 <br>His eyes moved slowly over each mark, absorbing meaning more than sound.
 <br>The tent flap hung open, letting in flickers of the burning campfire and the chorus of crickets singing their songs.
 
@@ -177,7 +178,7 @@ Chew flinched, and Snout's ears flicked back.
 
 > “Joseph!” Snout called after him, half in disbelief.
 
-But he was already walking again — head low, tail dragging — dissapearing into ngiht.
+But he was already walking again — head low, tail dragging — disappearing into night.
 
 A heavy quiet followed.
 
@@ -185,28 +186,28 @@ A heavy quiet followed.
 > “You let him talk to me like that, Eli?”
 
 Eli stepped from the tent, the lamplight behind him painting his fur in soft gold.  
-His expression was calm — **too calm.**
+His expression was calm — too calm.
 
 > “Watch your tone, Fight.”
 
-> “What? You’d have torn **me** apart for half that attitude!”  
+> “What? You’d have torn me apart for half that attitude!”  
 
 Fight gestured toward the path Joseph had vanished down.  
 
-> “But **him?** You just let him throw a tantrum and walk off?”
+> “But him? You just let him throw a tantrum and walk off?”
 
 Eli’s eyes flicked toward him.
 
 > “He’s not you.”
 
 > “No,” Fight snapped, bitterness cutting through.  
-> “Guess he’s your _favorite_ now.”
+> “Guess he’s your favorite now.”
 
 Eli’s voice came low but with unmistakable force.
 
 > **“Enough.”**
 
-Chew shifted awkwardly behind him; Snout looked down, saying nothing.
+Snout looked down; Chew shifted awkwardly behind.
 <br>Fight froze.
 <br>The single word carried weight — quiet, measured, final.
 
@@ -287,7 +288,7 @@ Joseph’s ears twitched at the sound.
 
 > Joseph sighed. “Didn’t think you’d remember me.”
 
-> “Oh, I remember **everybody** who _stares at the ground_ while talking to me.”
+> “Oh, I remember everybody who _stares at the ground_ while talking to me.”
 
 Joseph, suddenly self-aware, snaps his eyes up to hers.
 
@@ -300,7 +301,7 @@ He blinked, unsure how to respond to that kind of tone.
 > “Hmm,” she hummed, clearly amused by his hesitation.  
 > “And maybe a little **mysterious.**” She began to circle him, slow and casual.
 
-Joseph turned with her, matching her slow circle — more out of self-defense than anything.
+Joseph turned with her, matching her slow circle — more out of self-consciousness than anything.
 
 > “You know,” she said, “you really don’t act like the others around here. Sometimes I wonder if you’re even really one of us.”
 
@@ -323,7 +324,7 @@ Joseph's heart skipped a beat. The words clung to him like echoes in the dark �
 
 She kept going before he could even find the words to respond.
 
-> “Kind of **_romantic_**, don’t you think?” She smiled faintly.
+> “Kind of _**romantic**_, don’t you think?” She smiled faintly.
 
 > He swallowed. “Romantic?”
 
