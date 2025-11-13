@@ -428,3 +428,7 @@ He followed, his pulse still racing, stomach twisting between fear and curiosity
 He scoffs at the thought.
 
 > _Like I haven't already made several today._
+
+---
+
+What does he think he's doing? I don't trust Crystal! Get back temptress!
